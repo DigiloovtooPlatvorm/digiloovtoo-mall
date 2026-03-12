@@ -1,16 +1,209 @@
-# Juhend juhendajale
+# Õpetaja juhend: digiloovtöö haldamine GitHubis
 
-See fail aitab juhendajal kasutada digiloovtöö repositooriumi juhendamise ja töö edenemise jälgimise toetamiseks.
+See juhend on mõeldud õpetajale digiloovtöö protsessi toetamiseks GitHubis. GitHubi kasutatakse töö korraldamiseks, materjalide hoidmiseks, dokumenteerimiseks ja edenemise jälgimiseks ühes keskkonnas.
 
-## Esimesed sammud
+## 1. Ettevalmistus ja seadistamine
 
-1. Ava fail `projekti-kirjeldus.md`.
-2. Vaata üle töö pealkiri, eesmärk ja lühikirjeldus.
-3. Jälgi, kas vajalikud materjalid lisatakse repositooriumisse.
-4. Lepi õpilasega kokku, kuidas ülesandeid ja edenemist jälgitakse.
+GitHubi kasutamisel on soovitatav, et õpilane või tiim loob oma töörepositooriumi etteantud malli põhjal. Nii tekib igale tööle ühtne struktuur ja õpetajal on lihtsam töid jälgida.
 
-## Mida siia hiljem lisada
+### Soovituslik töökorraldus
 
-- PLACEHOLDER
-- PLACEHOLDER
-- PLACEHOLDER
+1. **GitHubi konto**  
+   Veendu, et sul on olemas GitHubi konto ning ligipääs organisatsioonile või õpilaste repositooriumidele.
+
+2. **Ligipääs õpilaste töödele**  
+   Lepi kokku, et õpilased lisavad sind oma repositooriumi liikmeks või annavad sulle vaatamisõiguse, et saaksid töö edenemist jälgida ja vajadusel tagasisidet anda.
+
+3. **Mallrepositooriumi kasutamine**  
+   Suuna õpilasi alustama tööd ettevalmistatud mallist. See aitab hoida tööde struktuuri ühtsena ning vähendab käsitsi seadistamise vajadust.
+
+4. **Kokkulepped töökorralduses**  
+   Lepi õpilastega töö alguses kokku:
+   - kuidas täidetakse projekti kirjeldus
+   - kuhu lisatakse töö käigus tekkivad materjalid
+   - kuidas märgitakse ülesanded
+   - kuidas jälgitakse edenemist
+   - kuidas dokumenteeritakse analüüsi tulemused
+   - kuidas jaotatakse töö etappideks või sprintideks
+
+## 2. Digiloovtöö mõistete vastavus GitHubis
+
+Digiloovtöö korraldamisel võib kasutada GitHubi tööloogikat järgmiselt:
+
+| Digiloovtöö mõiste | GitHubi vaste | Selgitus |
+| --- | --- | --- |
+| Projekt | Repository | Kogu töö, failid ja dokumentatsioon paiknevad siin. |
+| Tahvel | GitHub Projects | Tööülesannete ja edenemise jälgimise vaade. |
+| Ülesanne | Issue | Konkreetne tegevus, küsimus või probleem. |
+| Kasutajalugu | Issue või Issue sees kirjeldatud user story | Kasutaja vajaduse või eesmärgi kirjeldus, millest saab tuletada tööülesanded. |
+| Sprint / etapp | Milestone või kokkuleppeline tööetapp | Tööde grupeerimine ajaliselt või sisuliselt. |
+| Alamülesanne | Task list | Ülesande sees olev tegevuste loetelu. |
+| Dokumentatsioon | `docs/` kaust, README või muud failid | Töö käigu, märkmete ja kokkuvõtete hoidmine. |
+| Personad | eraldi dokumentatsioonifail või `docs/` kaust | Sihtrühma kirjeldavad näidiskasutajad. |
+| Stsenaariumid | eraldi dokumentatsioonifail või `docs/` kaust | Kirjeldused sellest, kuidas kasutaja lahendust kasutab. |
+
+## 3. Mida õpetaja peaks GitHubis jälgima
+
+### Projekti kirjeldus
+
+Fail `projekti-kirjeldus.md` annab kiire ülevaate tööst. Sealt peaks olema näha vähemalt:
+- töö pealkiri
+- autor või autorid
+- juhendaja
+- eesmärk
+- lühikirjeldus
+- oodatav väljund
+- tähtsamad tööetapid või verstapostid
+
+See aitab õpetajal mõista, millega on tegemist ja kas töö suund on selge.
+
+### Kasutajate vajadused ja analüüs
+
+Enne praktilise lahenduse ehitamist peaks õpetaja jälgima, kas õpilased on läbi mõelnud, kelle jaoks lahendus luuakse ja millisele vajadusele see vastab.
+
+### Personad
+
+Õpilased peaksid looma vähemalt ühe või mitu personat, mis esindavad lahenduse sihtrühma. Persoona aitab kirjeldada tüüpilist kasutajat, tema vajadusi, ootusi ja võimalikke probleeme.
+
+Õpetaja saab hinnata:
+- kas sihtrühm on selgelt määratletud
+- kas personad on usutavad ja asjakohased
+- kas loodav lahendus lähtub kirjeldatud kasutajast
+
+### Stsenaariumid
+
+Lisaks persoonadele peaks töö sisaldama stsenaariume, mis kirjeldavad, kuidas kasutaja lahendust kasutab ja millist eesmärki ta tahab saavutada.
+
+Õpetaja saab jälgida:
+- kas kasutaja tegevus on loogiliselt kirjeldatud
+- kas stsenaarium toetab lahenduse ideed
+- kas lahendust arendatakse kasutaja vaatenurgast
+
+### Kasutajalood ja ülesanded
+
+Kasutajalood aitavad kirjeldada kasutaja vajadusi ning siduda need konkreetsete tööülesannetega.
+
+GitHubis võib kasutada loogikat, kus:
+- kasutajalugu kirjeldatakse Issue sees
+- tööülesanded ja alamülesanded lisatakse task list'ina
+- edenemist jälgitakse Projects vaates
+
+Õpetaja saab hinnata:
+- kas kasutaja vajadused on arusaadavalt sõnastatud
+- kas suuremad tegevused on jagatud väiksemateks sammudeks
+- kas ülesanded on seotud töö eesmärgiga
+
+### Dokumentatsioon
+
+Töö käigus lisatud failid ja materjalid võiksid paikneda kokkulepitud kohtades, näiteks `docs/` kaustas. Dokumentatsiooni võiksid kuuluda:
+- projekti kirjeldus
+- eesmärgid ja väljundid
+- personad
+- stsenaariumid
+- kasutajalood
+- vahekokkuvõtted
+- testimise või tagasiside märkmed
+- lõppkokkuvõtted
+
+Nende põhjal saab hinnata, kas töö edeneb järjepidevalt ning kas olulised vaheetapid on dokumenteeritud.
+
+### Ülesanded ja edenemine
+
+GitHubi töövahendite abil saab jälgida:
+- millised ülesanded on loodud
+- millega parasjagu tegeletakse
+- millised tegevused on lõpetatud
+- kas töö edeneb järjepidevalt või tehakse suurem osa tegevusi viimasel hetkel
+
+Kui kasutatakse GitHub Projects vaadet, saab õpetaja jälgida ülesannete liikumist erinevate etappide vahel.
+
+## 4. Sprindid ja tööetapid
+
+Digiloovtöö võib jaotada selgelt nähtavateks tööetappideks või sprintideks. See aitab hoida tööprotsessi arusaadavana ja juhendajale jälgitavana.
+
+Näiteks võivad tööetapid olla:
+- analüüs ja sihtrühma mõistmine
+- personad ja stsenaariumid
+- lahenduse idee või kontseptsioon
+- prototüüp või esmane teostus
+- testimine ja täiendamine
+- lõppversioon ja esitlemine
+
+Õpetaja saab kasutada GitHubis milestone'e või muid kokkulepitud tööetappe, et näha, millises faasis töö parajasti on.
+
+## 5. Hindamine ja monitooring
+
+### Individuaalse panuse jälgimine
+
+Repositooriumi vaates saab õpetaja jälgida, kes on teinud muudatusi failidesse ja millal neid on tehtud. Vajadusel saab kasutada ka GitHubi statistika- ja ajaloo vaateid, et näha tööaktiivsust.
+
+### Protsessi hindamine
+
+Lisaks lõpptulemusele on oluline jälgida ka tööprotsessi. Õpetaja saab hinnata näiteks:
+- kas tööülesanded on selgelt sõnastatud
+- kas tegevused on jaotatud väiksemateks sammudeks
+- kas kasutajate vajadused on läbi mõeldud
+- kas personad ja stsenaariumid toetavad lahenduse loomist
+- kas töö edeneb järjepidevalt
+- kas dokumentatsioon täieneb töö käigus
+
+### Dokumenteerimise hindamine
+
+Dokumentatsiooni põhjal saab hinnata:
+- kas töö käik on arusaadavalt kirjeldatud
+- kas olulised otsused ja muudatused on talletatud
+- kas materjalid on lisatud sobivasse kohta
+- kas töö sisu on juhendajale jälgitav
+- kas analüüsiosa toetab lõpptulemust
+
+### Tulemuse hindamine
+
+Digiloovtöö puhul tasub hinnata ka seda, kas valminud lahendus vastab alguses sõnastatud eesmärgile, väljundile ja kasutaja vajadusele.
+
+## 6. Õpetaja tegevused töö käigus
+
+### Töö alguses
+
+Töö alguses kontrolli, et:
+- õpilane on loonud malli põhjal oma repositooriumi
+- fail `projekti-kirjeldus.md` on täidetud
+- juhendmaterjalid on olemas
+- töö jaoks vajalikud esimesed ülesanded on loodud
+- sihtrühm on määratletud
+- esimesed personad või kasutajaprofiilid on koostatud
+
+### Töö keskel
+
+Töö käigus:
+- vaata regulaarselt üle, kas repositooriumi sisu täieneb
+- kontrolli, kas dokumentatsioon on ajakohane
+- jälgi, kas ülesanded liiguvad edasi
+- vaata, kas personad, stsenaariumid ja kasutajalood on seotud päris tööülesannetega
+- anna vajadusel jooksvalt tagasisidet
+
+### Töö lõpus
+
+Töö lõppfaasis:
+- kontrolli, kas kokkulepitud tegevused on lõpetatud
+- vaata üle lõpptulemuse vastavus eesmärgile ja kasutaja vajadusele
+- hinda, kas tööprotsess ja dokumentatsioon toetavad lõpptulemust
+- kontrolli, kas töö olulised etapid on repositooriumis nähtavad
+
+## 7. Tagasiside andmine
+
+GitHubis on soovitatav anda tagasisidet võimalikult konkreetselt ja töö käigus, mitte alles lõpus. Tagasisidet võib anda:
+- repositooriumi failide põhjal
+- ülesannete juures
+- kommentaaridena kokkulepitud kohtades
+
+Selge ja konkreetne tagasiside aitab õpilasel paremini mõista, mida edasi teha ja kuidas oma tööd parandada. See on eriti oluline analüüsi osades, nagu eesmärkide sõnastamine, sihtrühma määratlemine, personad, stsenaariumid ja kasutajalood, sest need mõjutavad otseselt hilisemat lahendust.
+
+## 8. Soovitused õpetajale
+
+- Hoia töökorraldus võimalikult lihtne.
+- Kasuta ainult neid GitHubi funktsioone, mis on töö jaoks päriselt vajalikud.
+- Lepi õpilastega töö alguses kokku ühine tegutsemisviis.
+- Eelda, et kõik õpilased ei kasuta GitHubi sama kindlalt.
+- Suuna õpilasi dokumenteerima tööd järjepidevalt, mitte ainult lõpus.
+- Suuna õpilasi enne teostust läbi mõtlema, kellele lahendus on mõeldud ja millist probleemi see lahendab.
+- Jälgi, et analüüs, teostus ja refleksioon moodustaksid terviku.
