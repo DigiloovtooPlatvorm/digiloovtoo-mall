@@ -51,11 +51,6 @@ Soovituslik järjekord on:
 2. `stsenaariumid.md`
 3. `kasutajalood.md`
 
-## Abimaterjalid
-
-- Organisatsiooni avaleht: [DigiloovtooPlatvorm](https://github.com/DigiloovtooPlatvorm)
-- Digiloovtöö mall: [digiloovtoo-mall](https://github.com/DigiloovtooPlatvorm/digiloovtoo-mall)
-
 ## Abi saamine
 
 Kui sa ei ole kindel, mida teha:
@@ -63,4 +58,4 @@ Kui sa ei ole kindel, mida teha:
 - vaata [õpilase juhendit](https://github.com/DigiloovtooPlatvorm/digiloovtoo-mall/blob/main/juhendid/juhend-%C3%B5pilasele.md)
 - tutvu [Wiki kasutamise juhendiga](https://github.com/DigiloovtooPlatvorm/digiloovtoo-mall/blob/main/juhendid/wiki-kasutamine.md)
 - küsi abi juhendajalt
-- vaata organisatsiooni avalehel olevat sissejuhatust
+- vaata [organisatsiooni avalehte](https://github.com/DigiloovtooPlatvorm)
