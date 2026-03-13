@@ -6,7 +6,7 @@ See repositoorium on mall, mille põhjal saab luua uue digiloovtöö repositoori
 
 1. Vajuta **Use this template**.
 2. Loo selle põhjal uus repositoorium.
-3. Ava fail `projekti-kirjeldus.md`.
+3. Ava fail [`projekti-kirjeldus.md`](/projekti-kirjeldus.md).
 4. Täida oma töö põhiandmed.
 5. Tutvu juhenditega kaustas [`juhendid/`](./juhendid).
 6. Täida projekti analüüsi failid kaustas [`projekti-analuus/`](./projekti-analuus).
