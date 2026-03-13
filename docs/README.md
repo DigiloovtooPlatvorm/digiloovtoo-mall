@@ -33,10 +33,7 @@ GitHubis ei looda kausta eraldi nupust. Uue kausta loomiseks tuleb luua uus fail
 1. Ava repositooriumis kaust `docs/`.
 2. Vajuta **Add file**.
 3. Vali **Create new file**.
-4. Kirjuta failinimeks:
-
-   `docs/kavandid/README.md`
-
+4. Kirjuta failinimeks `docs/kavandid/README.md`.
 5. Lisa faili lühike sisu.
 6. Vajuta **Commit changes**.
 
@@ -46,9 +43,7 @@ Selle tulemusena luuakse:
 
 ### Näide 2: lisa fail olemasolevasse või uude alamkausta
 
-Kui soovid lisada näiteks märkmete faili, võid failinimeks kirjutada:
-
-`docs/testimine/markmed.md`
+Kui soovid lisada näiteks märkmete faili, võid failinimeks kirjutada `docs/testimine/markmed.md`.
 
 Selle tulemusena luuakse vajadusel:
 - kaust `docs/testimine/`
