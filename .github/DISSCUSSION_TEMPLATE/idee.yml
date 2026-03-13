@@ -1,0 +1,52 @@
+title: "[Idee] "
+labels: ["idea", "enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Kirjelda oma ideed lühidalt ja arusaadavalt.
+
+  - type: input
+    id: pealkiri
+    attributes:
+      label: Idee pealkiri
+      placeholder: Näiteks Lisame sprintide kokkuvõtte malli
+    validations:
+      required: true
+
+  - type: textarea
+    id: sisu
+    attributes:
+      label: Idee kirjeldus
+      description: Mis võiks muutuda või juurde tulla?
+      placeholder: Kirjelda oma ideed
+    validations:
+      required: true
+
+  - type: textarea
+    id: kasu
+    attributes:
+      label: Miks see on kasulik?
+      description: Kuidas see aitab õpilasi, õpetajat või tiimi?
+      placeholder: Selgita kasu
+    validations:
+      required: true
+
+  - type: dropdown
+    id: prioriteet
+    attributes:
+      label: Prioriteet
+      options:
+        - Madal
+        - Keskmine
+        - Kõrge
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: valmisolek
+    attributes:
+      label: Panus
+      options:
+        - label: Olen valmis selle kohta täpsemalt kirjutama
+        - label: Olen valmis aitama selle elluviimisel
