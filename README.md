@@ -55,6 +55,17 @@ Soovituslik järjekord on:
 
 Lisaks tasub enne alustamist vaadata faili [`projekti-analuus/README.md`](./projekti-analuus/README.md).
 
+## Suhtlus ja koostöö
+
+Selles repos kasutame erinevaid GitHubi tööriistu eri eesmärkidel.
+
+- **Issues** – konkreetsed ülesanded ja tööd
+- **Discussions** – küsimused, ideed ja abi küsimine
+- **Wiki / juhendid** – pikemad juhised ja selgitused
+- **docs/** – projekti käigus valminud materjalid
+
+Enne uue teema loomist vaata üle README, juhendid ja olemasolevad arutelud.
+
 ## Abi saamine
 
 Kui sa ei ole kindel, mida teha:
