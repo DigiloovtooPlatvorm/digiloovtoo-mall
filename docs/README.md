@@ -11,3 +11,56 @@ Siia võib lisada näiteks:
 - muid tööga seotud faile
 
 Selle kausta eesmärk on hoida töö käigus tekkivad materjalid ühes kohas ja kergesti leitavana.
+
+## Kausta laiendamine
+
+Kui töö käigus tekib rohkem materjale, võib kausta `docs/` sisse luua lisakaustu.
+
+Näiteks võib vajadusel lisada:
+- `kavandid/`
+- `testimine/`
+- `vahekokkuvotted/`
+- `tagasiside/`
+
+Uusi kaustu tasub luua siis, kui materjale on juba piisavalt palju ja neid on vaja paremini korrastada.
+
+## Kuidas GitHubis uus kaust luua
+
+GitHubis ei looda kausta eraldi nupust. Uue kausta loomiseks tuleb luua uus fail ja kirjutada failinime sisse kausta nimi koos kaldkriipsuga `/`.
+
+### Näide 1: loo uus kaust `kavandid`
+
+1. Ava repositooriumis kaust `docs/`.
+2. Vajuta **Add file**.
+3. Vali **Create new file**.
+4. Kirjuta failinimeks:
+
+   `docs/kavandid/README.md`
+
+5. Lisa faili lühike sisu.
+6. Vajuta **Commit changes**.
+
+Selle tulemusena luuakse:
+- kaust `docs/kavandid/`
+- fail `README.md`
+
+### Näide 2: lisa fail olemasolevasse või uude alamkausta
+
+Kui soovid lisada näiteks märkmete faili, võid failinimeks kirjutada:
+
+`docs/testimine/markmed.md`
+
+Selle tulemusena luuakse vajadusel:
+- kaust `docs/testimine/`
+- fail `markmed.md`
+
+## Oluline
+
+GitHubis ei saa luua täiesti tühja kausta. Kaust peab sisaldama vähemalt ühte faili.
+
+## Soovitus
+
+- ära loo alamkaustu ette ilma vajaduseta
+- loo uus kaust siis, kui see aitab materjale paremini korrastada
+- kasuta lühikesi ja arusaadavaid kaustanimesid
+- lisa uude kausta vajadusel `README.md`, mis selgitab, mida sinna panna
