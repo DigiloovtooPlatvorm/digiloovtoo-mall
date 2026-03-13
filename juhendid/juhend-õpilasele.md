@@ -148,8 +148,9 @@ See aitab hoida suuremad tegevused väiksemate ja jälgitavate sammudena.
 ## 6. Kasuta projektitahvlit
 
 GitHub Projects aitab jälgida, mis on:
-- tegemata
-- pooleli
+- plaanis
+- töös
+- tagasisidestamisel
 - valmis
 
 Kui projektitahvel on kasutusel, siis:
@@ -157,10 +158,25 @@ Kui projektitahvel on kasutusel, siis:
 2. liiguta neid vastavalt töö edenemisele
 3. hoia tahvlit ajakohasena
 
-Lihtne ja arusaadav jaotus võib olla:
-- **Todo**
-- **In Progress**
-- **Done**
+Projektitahvli veerud tähendavad:
+
+- **Plaanis** – ülesanne on loodud, kuid sellega ei ole veel alustatud
+- **Töös** – ülesandega tegeletakse aktiivselt
+- **Tagasisidestamisel** – töö on tehtud või esitatud ülevaatamiseks ning ootab tagasisidet või kinnitamist
+- **Valmis** – ülesanne on lõpetatud ja ei vaja enam täiendavaid tegevusi
+
+### Kuidas siduda repositoorium projektitahvliga
+
+Kui soovid kasutada GitHub Projectsi, tuleb repositoorium projektitahvliga siduda.
+
+1. Ava repositooriumis sakk **Projects**.
+2. Vajuta **Link a project**.
+3. Otsi organisatsiooni projektitahvel.
+4. Vali sobiv projekt.
+
+Pärast seda on projektitahvel repositooriumi kaudu nähtav ja sinna saab lisada issue’sid.
+
+Oluline on, et töö edenemine oleks nähtav, mitte ainult lõpptulemus.
 
 ## 7. Jaga töö etappideks või sprintideks
 
