@@ -1,0 +1,56 @@
+title: "[Abi] "
+labels: ["help wanted"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Kui vajad abi, kirjelda olukorda võimalikult konkreetselt.
+
+  - type: input
+    id: probleem
+    attributes:
+      label: Millega vajad abi?
+      placeholder: Näiteks wiki lehe loomine või issue malli kasutamine
+    validations:
+      required: true
+
+  - type: textarea
+    id: tehtud
+    attributes:
+      label: Mida oled juba proovinud?
+      description: Kirjelda lühidalt oma samme.
+      placeholder: Kirjuta siia
+    validations:
+      required: true
+
+  - type: textarea
+    id: tulemus
+    attributes:
+      label: Mis juhtus?
+      description: Kas tuli viga, jäi midagi puudu või ei tööta ootuspäraselt?
+      placeholder: Kirjelda tulemust
+    validations:
+      required: true
+
+  - type: dropdown
+    id: valdkond
+    attributes:
+      label: Abi valdkond
+      options:
+        - GitHub
+        - Wiki
+        - Issues
+        - Discussions
+        - Projektianalüüs
+        - Dokumentatsioon
+        - Muu
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: kontroll
+    attributes:
+      label: Kontroll
+      options:
+        - label: Lugesin juhendi enne läbi
+        - label: Kontrollisin, kas sama teema on juba olemas
