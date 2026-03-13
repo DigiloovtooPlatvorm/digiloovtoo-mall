@@ -63,8 +63,3 @@ Kasutajal on vaja näha kõige olulisemat infot selgelt ja ühes kohas, ilma et 
 - [ ] Koonda juhendmaterjalid ühte kohta
 - [ ] Lisa selge pealkiri ja lühikirjeldus
 - [ ] Tee juhendi struktuur lihtsalt loetavaks
-
-**Märkused:**  
-Juhend peaks olema arusaadav ka kasutajale, kellel on vähene varasem kogemus GitHubiga.
-
-> Näide on mõeldud ainult orientiiriks. Asenda see oma projekti jaoks sobiva sisuga.
