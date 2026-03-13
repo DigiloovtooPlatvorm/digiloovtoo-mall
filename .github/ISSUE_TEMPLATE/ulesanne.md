@@ -1,29 +1,38 @@
 ---
 name: Ülesanne
-about: Loo uus tööülesanne
+about: Loo uus tööülesanne või tegevus
 title: "[ÜLESANNE] "
 labels: ""
 assignees: ""
 ---
 
-## Ülesande kirjeldus
+## Kirjeldus
 
 Kirjelda lühidalt, mida on vaja teha.
 
-## Eesmärk
+## Miks see on vajalik
 
-Kirjelda, miks see ülesanne on vajalik.
+Selgita, miks see tegevus on oluline.
 
-## Alamülesanded
+## Tegevused
 
 - [ ] PLACEHOLDER
 - [ ] PLACEHOLDER
 - [ ] PLACEHOLDER
 
-## Valmimise tunnused
+## Millal on see valmis
 
-Kirjelda, millal võib selle ülesande lugeda tehtuks.
+Kirjelda, millal võib selle ülesande lugeda lõpetatuks.
 
-## Märkused
+## GitHubi väljad
+
+Issue loomisel võid kasutada ka GitHubi paremas servas olevaid välju:
+
+- **Assignees** – kellele ülesanne on määratud
+- **Labels** – sildid, mis aitavad ülesannet liigitada
+- **Milestone** – tööetapp või sprint, millega ülesanne on seotud
+- **Projects** – projektitahvel, kuhu ülesanne lisatakse
+
+## Lisainfo
 
 PLACEHOLDER
