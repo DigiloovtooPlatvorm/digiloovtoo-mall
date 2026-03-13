@@ -12,11 +12,11 @@ See aitab luua selgema, sihipärasema ja kasutajale sobivama lahenduse.
 
 ## Miks on analüüs vajalik
 
-Analüüs aitab vältida olukorda, kus hakatakse lahendust looma ilma selge arusaamata:
+Analüüs aitab vältida olukorda, kus lahendust hakatakse looma ilma selge arusaamata:
 - kes on kasutaja
 - mida kasutaja vajab
 - millistes olukordades lahendust kasutatakse
-- millised funktsioonid või tegevused on kõige olulisemad
+- millised tegevused või funktsioonid on kõige olulisemad
 
 Kui analüüs on läbi mõeldud, on lihtsam:
 - planeerida järgmisi tööetappe
@@ -26,19 +26,19 @@ Kui analüüs on läbi mõeldud, on lihtsam:
 
 ## Selle kausta failid
 
-### `personad.md`
+### [`personad.md`](./personad.md)
 Selles failis kirjeldatakse personaid.
 
 **Persoona** on kujuteldav, kuid realistlik kasutaja, kes esindab sinu sihtrühma.  
 Persoona aitab mõista, **kes kasutaja on**, millised on tema vajadused, eesmärgid ja võimalikud raskused.
 
-### `stsenaariumid.md`
+### [`stsenaariumid.md`](./stsenaariumid.md)
 Selles failis kirjeldatakse stsenaariume.
 
 **Stsenaarium** kirjeldab olukorda, kus kasutaja kasutab loodavat lahendust.  
 Stsenaarium aitab mõista, **mida kasutaja teeb**, miks ta seda teeb ja millist tulemust ta ootab.
 
-### `kasutajalood.md`
+### [`kasutajalood.md`](./kasutajalood.md)
 Selles failis kirjeldatakse kasutajalugusid.
 
 **Kasutajalugu** aitab sõnastada, mida kasutaja lahenduselt ootab.  
@@ -58,11 +58,16 @@ Kasutajalugu aitab siduda kasutaja vajadused konkreetsete tegevuste ja ülesanne
 
 Soovitatav on täita failid järgmises järjekorras:
 
-1. `personad.md`
-2. `stsenaariumid.md`
-3. `kasutajalood.md`
+1. [`personad.md`](./personad.md)
+2. [`stsenaariumid.md`](./stsenaariumid.md)
+3. [`kasutajalood.md`](./kasutajalood.md)
 
 See aitab liikuda:
 - kasutaja mõistmisest
 - kasutusolukorra kirjeldamiseni
 - konkreetsete vajaduste sõnastamiseni
+
+## Märkus
+
+Selles kaustas olevad näited on mõeldud orientiiriks.  
+Asenda need oma projekti jaoks sobiva sisuga.
