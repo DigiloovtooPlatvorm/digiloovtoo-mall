@@ -1,6 +1,6 @@
 # Digiloovtöö mall
 
-See repositoorium on mall, mille põhjal saab luua uue digiloovtöö repositooriumi.
+See repositoorium on mall, mille põhjal saab luua uue digiloovtöö repositooriumi. Mall aitab alustada tööd ühtse struktuuri alusel ning koondab ühte kohta projekti põhiandmed, juhendid, analüüsi osa ja töö käigus tekkivad materjalid.
 
 ## Alusta siit
 
@@ -8,34 +8,56 @@ See repositoorium on mall, mille põhjal saab luua uue digiloovtöö repositoori
 2. Loo selle põhjal uus repositoorium.
 3. Ava fail `projekti-kirjeldus.md`.
 4. Täida oma töö põhiandmed.
-5. Lisa töö materjalid kausta `docs/`.
-6. Kasuta GitHubi töövahendeid ülesannete ja edenemise jälgimiseks.
+5. Tutvu juhenditega kaustas `juhendid/`.
+6. Täida projekti analüüsi failid kaustas `projekti-analuus/`.
+7. Lisa töö käigus tekkivad materjalid kausta `docs/`.
+8. Kasuta GitHubi töövahendeid ülesannete ja edenemise jälgimiseks.
 
 ## Mida mall sisaldab
 
 See mall sisaldab järgmisi faile ja kaustu:
 
 - `README.md` – lühike ülevaade mallist ja selle kasutamisest
-- `projekti-kirjeldus.md` – töö pealkirja, eesmärgi, autori ja muu põhinfo kirjeldamiseks
-- `juhend-opilasele.md` – õpilasele mõeldud kasutusjuhend
-- `juhend-juhendajale.md` – juhendajale mõeldud kasutusjuhend
-- `docs/` – töö materjalide, märkmete ja muude failide hoidmiseks
-- `PLACEHOLDER` – siia lisanduvad vajadusel täiendavad failid või kaustad
+- `projekti-kirjeldus.md` – töö pealkirja, eesmärgi, autori, juhendaja ja muu põhinfo kirjeldamiseks
+- `juhendid/` – õpilase ja õpetaja juhendid
+  - `juhend-õpilasele.md`
+  - `juhend-juhendajale.md`
+- `projekti-analuus/` – projekti analüüsi osa
+  - `README.md` – selgitab, mis on personad, stsenaariumid ja kasutajalood ning miks neid vaja on
+  - `personad.md` – sihtrühma esindavate kasutajate kirjeldamiseks
+  - `stsenaariumid.md` – kasutusolukordade kirjeldamiseks
+  - `kasutajalood.md` – kasutaja vajaduste ja ootuste sõnastamiseks
+- `docs/` – töö käigus tekkivate materjalide hoidmiseks
+  - `README.md` – selgitab, milliseid materjale sinna lisada
+
+## Juhendid
+
+- [Õpilase juhend](https://github.com/DigiloovtooPlatvorm/digiloovtoo-mall/blob/main/juhendid/juhend-%C3%B5pilasele.md)
+- [Õpetaja juhend](https://github.com/DigiloovtooPlatvorm/digiloovtoo-mall/blob/main/juhendid/juhend-juhendajale.md)
+
+## Projekti analüüs
+
+Kaust `projekti-analuus/` aitab enne praktilise lahenduse loomist läbi mõelda:
+- kellele lahendus on mõeldud
+- millist probleemi see lahendab
+- kuidas kasutaja lahendust kasutab
+- mida lahendus peaks võimaldama
+
+Soovituslik järjekord on:
+
+1. `personad.md`
+2. `stsenaariumid.md`
+3. `kasutajalood.md`
 
 ## Abimaterjalid
 
-- Organisatsiooni avaleht: `PLACEHOLDER`
-- Näidisprojekt: `PLACEHOLDER`
-- Juhendmaterjal: `PLACEHOLDER`
+- Organisatsiooni avaleht: [DigiloovtooPlatvorm](https://github.com/DigiloovtooPlatvorm)
+- Digiloovtöö mall: [digiloovtoo-mall](https://github.com/DigiloovtooPlatvorm/digiloovtoo-mall)
 
 ## Abi saamine
 
 Kui sa ei ole kindel, mida teha:
-- vaata faili `juhend-opilasele.md`
+
+- vaata õpilase juhendit
 - küsi abi juhendajalt
 - vaata organisatsiooni avalehel olevat sissejuhatust
-
-## Märkused
-
-- Selle malli sisu võib töö käigus täieneda.
-- Osa linke ja alamfaile võivad olla märgitud kui `PLACEHOLDER`, kuni lõplik struktuur on kokku lepitud.
