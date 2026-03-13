@@ -66,8 +66,3 @@ See aitab liikuda:
 - kasutaja mõistmisest
 - kasutusolukorra kirjeldamiseni
 - konkreetsete vajaduste sõnastamiseni
-
-## Märkus
-
-Selles kaustas olevad näited on mõeldud orientiiriks.  
-Asenda need oma projekti jaoks sobiva sisuga.
