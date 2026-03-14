@@ -1,6 +1,6 @@
 # Õpilase juhend: digiloovtöö tegemine GitHubis
 
-Selles aines kasutatakse digiloovtöö korraldamiseks GitHubi. GitHubis saad hoida ühes kohas projekti kirjelduse, tööfailid, dokumentatsiooni, ülesanded ja töö edenemise.
+Selles aines kasutatakse digiloovtöö korraldamiseks GitHubi. GitHubis saad hoida ühes kohas projekti kirjelduse, tööfailid, dokumentatsiooni, juhendid, ülesanded, arutelud ja töö edenemise.
 
 See juhend aitab sul alustada tööd malli põhjal ning kasutada repositooriumi nii iseseisvaks tööks kui ka tiimitööks.
 
@@ -116,7 +116,18 @@ Dokumentatsiooni võivad kuuluda näiteks:
 
 Oluline on, et töö käik oleks juhendajale nähtav ja sulle endale hiljem arusaadav.
 
-## 5. Loo ülesanded GitHub Issues vaates
+## 5. Kasuta eri GitHubi vaateid õigel eesmärgil
+
+Digiloovtöö repositooriumis kasutatakse erinevaid GitHubi tööriistu eri eesmärkidel.
+
+- **Issues** – konkreetsete ülesannete ja tegevuste jaoks
+- **Discussions** – küsimuste, abi ja ideede jaoks
+- **Wiki** – püsivate juhendite ja töökorralduse jaoks
+- **docs/** – projekti käigus loodud materjalide hoidmiseks
+
+Enne uue teema loomist vaata üle README, juhendid, wiki ja olemasolevad arutelud.
+
+## 6. Loo ülesanded GitHub Issues vaates
 
 Kui projekti suurem eesmärk on paigas, jaga see väiksemateks tegevusteks.
 
@@ -145,7 +156,7 @@ Näide:
 
 See aitab hoida suuremad tegevused väiksemate ja jälgitavate sammudena.
 
-## 6. Kasuta projektitahvlit
+## 7. Kasuta projektitahvlit
 
 GitHub Projects aitab jälgida, mis on:
 - plaanis
@@ -178,7 +189,7 @@ Pärast seda on projektitahvel repositooriumi kaudu nähtav ja sinna saab lisada
 
 Oluline on, et töö edenemine oleks nähtav, mitte ainult lõpptulemus.
 
-## 7. Jaga töö etappideks või sprintideks
+## 8. Jaga töö etappideks või sprintideks
 
 Digiloovtöö tegemisel on kasulik jagada töö väiksemateks etappideks.
 
@@ -196,7 +207,7 @@ GitHubis saab etappe jälgida näiteks:
 - projektitahvli veergude abil
 - ülesannete grupeerimise abil
 
-## 8. Igapäevane töökorraldus
+## 9. Igapäevane töökorraldus
 
 Töö käigus võiksid järgida lihtsat töövoogu:
 
@@ -209,7 +220,7 @@ Töö käigus võiksid järgida lihtsat töövoogu:
 
 Oluline on, et töö edenemine oleks nähtav, mitte ainult lõpptulemus.
 
-## 9. Koostöö tiimis
+## 10. Koostöö tiimis
 
 Kui töötate mitmekesi, siis:
 - leppige kokku, kes mille eest vastutab
@@ -220,7 +231,7 @@ Kui töötate mitmekesi, siis:
 
 Hea koostöö tähendab, et kõigil on ülevaade, mida tiim parasjagu teeb.
 
-## 10. Mida õpetaja ootab
+## 11. Mida õpetaja ootab
 
 Õpetaja saab repositooriumi põhjal jälgida:
 - kas projekti kirjeldus on täidetud
@@ -232,16 +243,17 @@ Hea koostöö tähendab, et kõigil on ülevaade, mida tiim parasjagu teeb.
 
 Seetõttu on oluline, et sa ei lisaks kõike alles töö lõpus, vaid töötaksid repositooriumis regulaarselt.
 
-## 11. Kui sa ei tea, kuidas edasi minna
+## 12. Kui sa ei tea, kuidas edasi minna
 
 Kui sa ei ole kindel, mida teha:
 - vaata üle `projekti-kirjeldus.md`
 - kontrolli, kas järgmine ülesanne on loodud
 - uuri, kas dokumentatsioon vajab täiendamist
+- vaata üle wiki ja olemasolevad arutelud
 - küsi abi tiimikaaslaselt või õpetajalt
 - liigu edasi väikese sammuga, mitte ära oota täielikku valmisplaani
 
-## 12. Kokkuvõte
+## 13. Kokkuvõte
 
 GitHub aitab sul hoida digiloovtöö eri osad ühes kohas:
 - projekti kirjelduse
