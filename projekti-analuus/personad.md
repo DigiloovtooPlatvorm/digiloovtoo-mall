@@ -8,6 +8,8 @@ Persoona aitab paremini mõista:
 - milliseid raskusi ta võib kogeda
 - mida loodav lahendus peaks talle võimaldama
 
+Persona ei pea kirjeldama päris inimest, vaid usutavat ja tüüpilist kasutajat, kes esindab sinu sihtrühma.
+
 ## Persoona 1
 
 ### Nimi
@@ -20,18 +22,28 @@ PLACEHOLDER
 PLACEHOLDER
 
 ### Eesmärgid
+Kirjelda, mida see kasutaja tahab saavutada.
+
 PLACEHOLDER
 
 ### Vajadused
+Kirjelda, mida kasutaja vajab, et oma eesmärki saavutada.
+
 PLACEHOLDER
 
 ### Probleemid või raskused
+Kirjelda, mis võib kasutaja jaoks olla keeruline või takistav.
+
 PLACEHOLDER
 
 ### Harjumused
+Kirjelda, kuidas kasutaja tavaliselt tegutseb või milliseid vahendeid kasutab.
+
 PLACEHOLDER
 
 ### Märkused
+Lisa vajadusel muu oluline info, mis aitab kasutajat paremini mõista.
+
 PLACEHOLDER
 
 ---
@@ -48,18 +60,28 @@ PLACEHOLDER
 PLACEHOLDER
 
 ### Eesmärgid
+Kirjelda, mida see kasutaja tahab saavutada.
+
 PLACEHOLDER
 
 ### Vajadused
+Kirjelda, mida kasutaja vajab, et oma eesmärki saavutada.
+
 PLACEHOLDER
 
 ### Probleemid või raskused
+Kirjelda, mis võib kasutaja jaoks olla keeruline või takistav.
+
 PLACEHOLDER
 
 ### Harjumused
+Kirjelda, kuidas kasutaja tavaliselt tegutseb või milliseid vahendeid kasutab.
+
 PLACEHOLDER
 
 ### Märkused
+Lisa vajadusel muu oluline info, mis aitab kasutajat paremini mõista.
+
 PLACEHOLDER
 
 ## Näide
