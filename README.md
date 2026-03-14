@@ -2,6 +2,16 @@
 
 See repositoorium on mall, mille põhjal saab luua uue digiloovtöö repositooriumi. Mall aitab alustada tööd ühtse struktuuri alusel ning koondab ühte kohta projekti põhiandmed, juhendid, analüüsi osa ja töö käigus tekkivad materjalid.
 
+## Kiirlingid
+
+- [Wiki](../../wiki)
+- [Discussions](../../discussions)
+- [Issues](../../issues)
+- [Projekti kirjeldus](./projekti-kirjeldus.md)
+- [Juhendid](./juhendid)
+- [Projekti analüüs](./projekti-analuus)
+- [docs](./docs)
+
 ## Alusta siit
 
 1. Vajuta **Use this template**.
@@ -11,7 +21,7 @@ See repositoorium on mall, mille põhjal saab luua uue digiloovtöö repositoori
 5. Tutvu juhenditega kaustas [`juhendid/`](./juhendid).
 6. Täida projekti analüüsi failid kaustas [`projekti-analuus/`](./projekti-analuus).
 7. Lisa töö käigus tekkivad materjalid kausta [`docs/`](./docs).
-8. Kasuta GitHubi töövahendeid ülesannete ja edenemise jälgimiseks.
+8. Kasuta GitHubi töövahendeid ülesannete, arutelude ja edenemise jälgimiseks.
 
 ## Mida mall sisaldab
 
@@ -19,7 +29,7 @@ See mall sisaldab järgmisi faile ja kaustu:
 
 - [`README.md`](./README.md) – lühike ülevaade mallist ja selle kasutamisest
 - [`projekti-kirjeldus.md`](./projekti-kirjeldus.md) – töö pealkirja, eesmärgi, autori, juhendaja ja muu põhinfo kirjeldamiseks
-- [`juhendid/`](./juhendid) – õpilase, õpetaja ja Wiki kasutamise juhendid
+- [`juhendid/`](./juhendid) – õpilase, õpetaja ja wiki kasutamise juhendid
   - [`juhend-õpilasele.md`](./juhendid/juhend-%C3%B5pilasele.md)
   - [`juhend-juhendajale.md`](./juhendid/juhend-juhendajale.md)
   - [`wiki-kasutamine.md`](./juhendid/wiki-kasutamine.md)
@@ -61,16 +71,18 @@ Selles repos kasutame erinevaid GitHubi tööriistu eri eesmärkidel.
 
 - **Issues** – konkreetsed ülesanded ja tööd
 - **Discussions** – küsimused, ideed ja abi küsimine
-- **Wiki / juhendid** – pikemad juhised ja selgitused
+- **Wiki** – pikemad juhised ja töökorraldus
 - **docs/** – projekti käigus valminud materjalid
 
-Enne uue teema loomist vaata üle README, juhendid ja olemasolevad arutelud.
+Enne uue teema loomist vaata üle README, juhendid, wiki ja olemasolevad arutelud.
 
 ## Abi saamine
 
 Kui sa ei ole kindel, mida teha:
 
 - vaata [õpilase juhendit](./juhendid/juhend-%C3%B5pilasele.md)
-- tutvu [Wiki kasutamise juhendiga](./juhendid/wiki-kasutamine.md)
+- tutvu [wiki kasutamise juhendiga](./juhendid/wiki-kasutamine.md)
+- ava [wiki](../../wiki)
+- vaata [discussions](../../discussions)
 - ava [juhendite kaust](./juhendid)
 - vaata [organisatsiooni avalehte](https://github.com/DigiloovtooPlatvorm)
