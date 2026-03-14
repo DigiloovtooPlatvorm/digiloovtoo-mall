@@ -12,6 +12,27 @@ Siia võib lisada näiteks:
 
 Selle kausta eesmärk on hoida töö käigus tekkivad materjalid ühes kohas ja kergesti leitavana.
 
+## Millal kasutada docs kausta
+
+Kausta `docs/` tasub kasutada siis, kui soovid lisada töö käigus loodud faile ja materjale, mis ei kuulu otseselt wiki lehtede, issue’de või discussionsi alla.
+
+Hea rusikareegel on järgmine:
+- **Issues** – konkreetsete ülesannete ja tegevuste jaoks
+- **Discussions** – küsimuste, abi ja ideede jaoks
+- **Wiki** – püsivate juhendite ja töökorralduse jaoks
+- **docs/** – töö käigus loodud materjalide ja failide jaoks
+
+## Mida võib docs kausta lisada
+
+Siia sobivad näiteks:
+- raporti mustandid
+- kavandid
+- pildid ja skeemid
+- testimise märkmed
+- vahekokkuvõtted
+- tagasisidega seotud materjalid
+- muud projekti käigus loodud failid
+
 ## Kausta laiendamine
 
 Kui töö käigus tekib rohkem materjale, võib kausta `docs/` sisse luua lisakaustu.
