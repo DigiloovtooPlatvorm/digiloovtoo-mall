@@ -8,30 +8,46 @@ Stsenaarium aitab paremini mõista:
 - miks see on talle oluline
 - milline tulemus peaks tekkima
 
+Stsenaarium kirjeldab kasutusolukorda samm-sammult ja aitab siduda kasutaja vajadused loodava lahendusega.
+
 ## Stsenaarium 1
 
 ### Pealkiri
 PLACEHOLDER
 
 ### Seotud persoona
+Kirjuta siia selle persoona nimi, kelle vaatenurgast olukorda kirjeldad.
+
 PLACEHOLDER
 
 ### Olukorra kirjeldus
+Kirjelda lühidalt, mis olukorras kasutaja on.
+
 PLACEHOLDER
 
 ### Kasutaja eesmärk
+Kirjelda, mida kasutaja tahab saavutada.
+
 PLACEHOLDER
 
 ### Tegevuse käik
+Kirjelda lühidalt, milliseid samme kasutaja teeb.
+
 PLACEHOLDER
 
 ### Oodatav tulemus
+Kirjelda, milline tulemus peaks selle tegevuse järel tekkima.
+
 PLACEHOLDER
 
 ### Võimalikud probleemid
+Kirjelda, mis võib kasutaja jaoks olla keeruline või takistav.
+
 PLACEHOLDER
 
 ### Märkused
+Lisa vajadusel muu oluline info.
+
 PLACEHOLDER
 
 ---
@@ -42,24 +58,38 @@ PLACEHOLDER
 PLACEHOLDER
 
 ### Seotud persoona
+Kirjuta siia selle persoona nimi, kelle vaatenurgast olukorda kirjeldad.
+
 PLACEHOLDER
 
 ### Olukorra kirjeldus
+Kirjelda lühidalt, mis olukorras kasutaja on.
+
 PLACEHOLDER
 
 ### Kasutaja eesmärk
+Kirjelda, mida kasutaja tahab saavutada.
+
 PLACEHOLDER
 
 ### Tegevuse käik
+Kirjelda lühidalt, milliseid samme kasutaja teeb.
+
 PLACEHOLDER
 
 ### Oodatav tulemus
+Kirjelda, milline tulemus peaks selle tegevuse järel tekkima.
+
 PLACEHOLDER
 
 ### Võimalikud probleemid
+Kirjelda, mis võib kasutaja jaoks olla keeruline või takistav.
+
 PLACEHOLDER
 
 ### Märkused
+Lisa vajadusel muu oluline info.
+
 PLACEHOLDER
 
 ## Näide
