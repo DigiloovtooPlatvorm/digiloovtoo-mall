@@ -54,6 +54,18 @@ Kasutajalugu aitab siduda kasutaja vajadused konkreetsete tegevuste ja ülesanne
 - **Stsenaarium** kirjeldab, **mida kasutaja mingis olukorras teeb**
 - **Kasutajalugu** kirjeldab, **mida kasutaja lahenduselt vajab**
 
+## Seos ülejäänud tööga
+
+Analüüsi osa ei ole eraldi seisev materjal, vaid see toetab kogu projekti.
+
+Analüüsi tulemusi saab kasutada:
+- faili `projekti-kirjeldus.md` täpsustamisel
+- issue’de loomisel ja tööülesannete sõnastamisel
+- wiki töövoo ja juhiste täiendamisel
+- lõpptulemuse hindamisel
+
+Hea analüüs aitab siduda kasutaja vajadused konkreetsete tegevuste ja lahenduse omadustega.
+
 ## Soovituslik järjekord
 
 Soovitatav on täita failid järgmises järjekorras:
