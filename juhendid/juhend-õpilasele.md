@@ -122,10 +122,10 @@ Digiloovtöö repositooriumis kasutatakse erinevaid GitHubi tööriistu eri eesm
 
 - **Issues** – konkreetsete ülesannete ja tegevuste jaoks
 - **Discussions** – küsimuste, abi ja ideede jaoks
-- **Wiki** – püsivate juhendite ja töökorralduse jaoks
+- **Wiki** – püsivate juhendite ja töökorralduse jaoks, kui Wiki on repositooriumis kasutusel
 - **docs/** – projekti käigus loodud materjalide hoidmiseks
 
-Enne uue teema loomist vaata üle README, juhendid, wiki ja olemasolevad arutelud.
+Enne uue teema loomist vaata üle README, juhendid, olemasolevad arutelud ja vajadusel ka Wiki.
 
 ## 6. Loo ülesanded GitHub Issues vaates
 
@@ -149,10 +149,10 @@ Suurema ülesande sees võid kasutada task list'i.
 
 Näide:
 
-    - [ ] Kogu taustainfo
-    - [ ] Koosta esialgne kirjeldus
-    - [ ] Küsi tagasisidet
-    - [ ] Tee parandused
+- [ ] Kogu taustainfo
+- [ ] Koosta esialgne kirjeldus
+- [ ] Küsi tagasisidet
+- [ ] Tee parandused
 
 See aitab hoida suuremad tegevused väiksemate ja jälgitavate sammudena.
 
@@ -163,6 +163,8 @@ GitHub Projects aitab jälgida, mis on:
 - töös
 - tagasisidestamisel
 - valmis
+
+Oluline on teada, et projektitahvel ei tule digiloovtöö malli kasutamisel uude repositooriumisse automaatselt kaasa. Kui soovid projektitahvlit kasutada, tuleb see uues repositooriumis ise luua.
 
 Kui projektitahvel on kasutusel, siis:
 1. lisa loodud ülesanded tahvlile
@@ -176,16 +178,20 @@ Projektitahvli veerud tähendavad:
 - **Tagasisidestamisel** – töö on tehtud või esitatud ülevaatamiseks ning ootab tagasisidet või kinnitamist
 - **Valmis** – ülesanne on lõpetatud ja ei vaja enam täiendavaid tegevusi
 
-### Kuidas siduda repositoorium projektitahvliga
-
-Kui soovid kasutada GitHub Projectsi, tuleb repositoorium projektitahvliga siduda.
+### Kuidas luua projektitahvel
 
 1. Ava repositooriumis sakk **Projects**.
-2. Vajuta **Link a project**.
-3. Otsi organisatsiooni projektitahvel.
-4. Vali sobiv projekt.
+2. Vajuta **New project**.
+3. Vali sobiv projektivaade, näiteks **Board**.
+4. Pane projektitahvlile nimi.
+5. Loo vajalikud veerud või kohanda olemasolevat jaotust.
+6. Lisa loodud issue’d projektitahvlile.
 
-Pärast seda on projektitahvel repositooriumi kaudu nähtav ja sinna saab lisada issue’sid.
+Soovituslik veergude jaotus:
+- **Plaanis**
+- **Töös**
+- **Tagasisidestamisel**
+- **Valmis**
 
 Oluline on, et töö edenemine oleks nähtav, mitte ainult lõpptulemus.
 
@@ -206,6 +212,8 @@ GitHubis saab etappe jälgida näiteks:
 - milestone’ide abil
 - projektitahvli veergude abil
 - ülesannete grupeerimise abil
+
+Kui soovid kasutada milestone’e, tuleb need uues repositooriumis ise luua.
 
 ## 9. Igapäevane töökorraldus
 
@@ -249,7 +257,7 @@ Kui sa ei ole kindel, mida teha:
 - vaata üle `projekti-kirjeldus.md`
 - kontrolli, kas järgmine ülesanne on loodud
 - uuri, kas dokumentatsioon vajab täiendamist
-- vaata üle wiki ja olemasolevad arutelud
+- vaata üle olemasolevad arutelud ja vajadusel ka Wiki
 - küsi abi tiimikaaslaselt või õpetajalt
 - liigu edasi väikese sammuga, mitte ära oota täielikku valmisplaani
 
