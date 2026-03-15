@@ -1,3 +1,11 @@
+---
+name: Ülesanne
+about: Loo uus tööülesanne digiloovtöö jaoks
+title: ''
+labels: ''
+assignees: ''
+---
+
 ## Kirjeldus
 
 Kirjelda lühidalt, mida on vaja teha.
