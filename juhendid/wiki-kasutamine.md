@@ -4,6 +4,8 @@ GitHub Wiki on koht, kuhu saab koondada digiloovtööga seotud püsiva info, juh
 
 Selles mallis kasutatakse Wikit eelkõige selleks, et hoida ühes kohas tööprotsessi selgitused, korduma kippuvad küsimused ja muud juhendmaterjalid.
 
+Oluline on teada, et GitHub Wiki ei tule digiloovtöö malli kasutamisel uude repositooriumisse automaatselt kaasa. Kui soovid Wikit kasutada, tuleb see uues repositooriumis eraldi sisse lülitada ja vajalikud lehed ise luua.
+
 ## Milleks Wikit kasutada
 
 Wiki sobib näiteks järgmise info jaoks:
