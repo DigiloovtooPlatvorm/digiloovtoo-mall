@@ -7,6 +7,8 @@ GitHubis saab projektitöö korraldamiseks kasutada:
 - **Projects** – tööde jälgimiseks tahvlivaates
 - **Milestones** – tööetappide või sprintide tähistamiseks
 
+Oluline on arvestada, et projektitahvel ja milestone’id ei tule digiloovtöö malli kasutamisel uude repositooriumisse automaatselt kaasa. Kui soovid kasutada Kanban- või Scrum-tüüpi töökorraldust, tuleb need uues repositooriumis ise luua ja seadistada.
+
 ## 1. Mis on Kanban GitHubis
 
 Kanban on lihtne töökorralduse viis, kus ülesanded liiguvad erinevate etappide vahel.
@@ -50,11 +52,11 @@ Näiteks võib sprint olla:
 5. Vajadusel määra ülesande tegija.
 6. Vajadusel seo ülesanne milestone’i või projektiga.
 
-Kui repositooriumis on loodud issue template’id, pakub GitHub need uue issue loomisel automaatselt välja.  
+Kui repositooriumis on loodud issue template’id, pakub GitHub need uue issue loomisel automaatselt välja.
 
 ## 4. Kuidas luua Kanban-tahvel
 
-GitHubi järgi saab uue projekti luua **New project** kaudu ja valida kas **Table**, **Roadmap** või **Board**. Kanban-vaate jaoks sobib **Board**. :contentReference[oaicite:1]{index=1}
+Kanban-vaate jaoks sobib GitHubis kõige paremini **Board** tüüpi projekt.
 
 ### Projekti loomine
 
@@ -72,7 +74,7 @@ Soovituslik veergude jaotus:
 
 ## 5. Kuidas kasutada milestone’e sprindina
 
-GitHubi järgi saab milestone’e kasutada issue’de ja pull requestide rühmitamiseks ning nende edenemise jälgimiseks. :contentReference[oaicite:2]{index=2}
+Milestone’e saab kasutada issue’de rühmitamiseks ja tööetappide jälgimiseks.
 
 ### Milestone’i loomine
 
@@ -92,7 +94,7 @@ Näiteks:
 
 1. Loo või ava digiloovtöö repositoorium.
 2. Täida fail `projekti-kirjeldus.md`.
-3. Mõtle läbi projektianalüüsi osa.
+3. Mõtle läbi projekti analüüsi osa.
 4. Loo vajalikud issue’d.
 5. Loo projektitahvel.
 6. Jaga töö milestone’ideks või sprintideks.
