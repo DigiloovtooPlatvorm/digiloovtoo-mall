@@ -2,7 +2,7 @@
 
 GitHub Wiki on koht, kuhu saab koondada digiloovtööga seotud püsiva info, juhendid ja töökorralduse. Wiki sobib hästi sellise sisu jaoks, mida on vaja töö käigus korduvalt vaadata ja täiendada.
 
-Selles mallis kasutatakse Wikit eelkõige selleks, et hoida ühes kohas tööprotsessi selgitused, korduma kippuvad küsimused ja muud juhendmaterjalid.
+Digiloovtöö malli puhul võib Wikit kasutada eelkõige selleks, et hoida ühes kohas tööprotsessi selgitused, korduma kippuvad küsimused ja muud juhendmaterjalid.
 
 Oluline on teada, et GitHub Wiki ei tule digiloovtöö malli kasutamisel uude repositooriumisse automaatselt kaasa. Kui soovid Wikit kasutada, tuleb see uues repositooriumis eraldi sisse lülitada ja vajalikud lehed ise luua.
 
@@ -59,7 +59,7 @@ Lehtede nimed võiksid olla lühikesed ja arusaadavad, et neid oleks lihtne leid
 Selles mallis võiks Wiki sisaldada vähemalt järgmisi lehti:
 
 - **Home** – wiki avaleht ja peamised lingid
-- **Projekti eesmärk** – lühike ülevaade sellest, milleks mall või projekt on loodud
+- **Projekti eesmärk** – lühike ülevaade sellest, milleks projekt on loodud
 - **Töövoog GitHubis** – selgitus, kus kasutada Issuesid, Discussionsit, Wikit ja docs kausta
 - **Rollid ja vastutus** – kes mille eest vastutab
 - **Sprintide töö** – kuidas tööd etapiviisiliselt korraldada
