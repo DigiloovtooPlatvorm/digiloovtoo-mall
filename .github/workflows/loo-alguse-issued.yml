@@ -1,0 +1,269 @@
+name: Loo alguse issue'd
+
+on:
+  workflow_dispatch:
+
+jobs:
+  create-starter-issues:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+    steps:
+      - name: Loo standard issue'd
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+        run: |
+          gh issue create --repo "$REPO" \
+            --title "Projekti eesmärgi ja sihtrühma sõnastamine" \
+            --label "analüüs" \
+            --body "$(cat <<'EOF'
+          ## Kirjeldus
+
+          Sõnasta projekti eesmärk ning kirjelda, kellele lahendus on suunatud.
+
+          ## Miks see on vajalik
+
+          Selge eesmärk ja sihtrühm annavad aluse kogu ülejäänud tööle ning aitavad hoida projekti fookust.
+
+          ## Tegevused
+
+          - sõnasta projekti eesmärk
+          - kirjelda sihtrühm
+          - täienda faili `projekti-kirjeldus.md`
+
+          ## Valmiskriteerium
+
+          Ülesanne on valmis siis, kui projekti kirjelduses on olemas selgelt sõnastatud eesmärk ja sihtrühm.
+
+          ## Lisainfo
+
+          See on üks esimestest ülesannetest, sest enne teostust tuleb aru saada, mida tehakse ja kelle jaoks.
+          EOF
+          )"
+
+          gh issue create --repo "$REPO" \
+            --title "Personade koostamine" \
+            --label "analüüs" \
+            --body "$(cat <<'EOF'
+          ## Kirjeldus
+
+          Koosta vähemalt kaks personat, kes esindavad projekti peamisi kasutajaid.
+
+          ## Miks see on vajalik
+
+          Personad aitavad paremini mõista, millised on kasutajate vajadused, ootused ja võimalikud raskused.
+
+          ## Tegevused
+
+          - kirjelda vähemalt kaks personat
+          - lisa nende eesmärgid, vajadused ja raskused
+          - täienda faili `projekti-analuus/personad.md`
+
+          ## Valmiskriteerium
+
+          Ülesanne on valmis siis, kui failis `personad.md` on vähemalt kaks täidetud personat.
+
+          ## Lisainfo
+
+          Personad peaksid lähtuma projekti sihtrühmast.
+          EOF
+          )"
+
+          gh issue create --repo "$REPO" \
+            --title "Stsenaariumide koostamine" \
+            --label "analüüs" \
+            --body "$(cat <<'EOF'
+          ## Kirjeldus
+
+          Koosta vähemalt kaks stsenaariumi, mis kirjeldavad, kuidas kasutaja loodavat lahendust kasutab.
+
+          ## Miks see on vajalik
+
+          Stsenaariumid aitavad mõista kasutaja olukorda, eesmärki ja oodatavat tulemust.
+
+          ## Tegevused
+
+          - koosta vähemalt kaks stsenaariumi
+          - seo stsenaariumid olemasolevate personadega
+          - täienda faili `projekti-analuus/stsenaariumid.md`
+
+          ## Valmiskriteerium
+
+          Ülesanne on valmis siis, kui failis `stsenaariumid.md` on vähemalt kaks täidetud stsenaariumi.
+
+          ## Lisainfo
+
+          Stsenaariumid peaksid lähtuma eelnevalt kirjeldatud personadest.
+          EOF
+          )"
+
+          gh issue create --repo "$REPO" \
+            --title "Kasutajalugude koostamine" \
+            --label "analüüs" \
+            --body "$(cat <<'EOF'
+          ## Kirjeldus
+
+          Koosta vähemalt kaks kasutajalugu, mis kirjeldavad, mida kasutajad lahenduselt ootavad.
+
+          ## Miks see on vajalik
+
+          Kasutajalood aitavad siduda kasutajate vajadused konkreetsete ülesannete ja lahendustega.
+
+          ## Tegevused
+
+          - koosta vähemalt kaks kasutajalugu
+          - lisa iga kasutajaloo juurde võimalikud alamülesanded
+          - täienda faili `projekti-analuus/kasutajalood.md`
+
+          ## Valmiskriteerium
+
+          Ülesanne on valmis siis, kui failis `kasutajalood.md` on vähemalt kaks täidetud kasutajalugu.
+
+          ## Lisainfo
+
+          Kasutajalood peaksid lähtuma personadest ja stsenaariumidest.
+          EOF
+          )"
+
+          gh issue create --repo "$REPO" \
+            --title "Lahenduse esialgse kavandi loomine" \
+            --label "arendus" \
+            --body "$(cat <<'EOF'
+          ## Kirjeldus
+
+          Koosta lahenduse esialgne kavand ja kirjelda peamised vaated või osad.
+
+          ## Miks see on vajalik
+
+          Kavand aitab enne teostust läbi mõelda, milline info peab kasutajale nähtav olema ja kuidas lahendus üles ehitada.
+
+          ## Tegevused
+
+          - kirjelda lahenduse peamised osad
+          - lisa info põhivaadete kohta
+          - loo fail `docs/kavand.md`
+
+          ## Valmiskriteerium
+
+          Valmis on esialgne kavand koos põhiosade kirjeldusega.
+
+          ## Lisainfo
+
+          Kavand peaks lähtuma analüüsis kirjeldatud kasutajate vajadustest.
+          EOF
+          )"
+
+          gh issue create --repo "$REPO" \
+            --title "Prototüübi või esimese lahenduse loomine" \
+            --label "arendus" \
+            --body "$(cat <<'EOF'
+          ## Kirjeldus
+
+          Loo lahenduse esimene töötav versioon või prototüüp.
+
+          ## Miks see on vajalik
+
+          Praktiline lahendus võimaldab kontrollida, kas analüüsist tulnud vajadused on arvesse võetud.
+
+          ## Tegevused
+
+          - loo esimene töötav versioon või prototüüp
+          - lisa peamised sisuelemendid
+          - kontrolli, et lahendus oleks loogilise ülesehitusega
+
+          ## Valmiskriteerium
+
+          Valmis on esimene prototüüp või töötav versioon, kus on olemas peamised sisuelemendid.
+
+          ## Lisainfo
+
+          Oluline on, et kasutaja leiaks kiiresti vajaliku põhiinfo.
+          EOF
+          )"
+
+          gh issue create --repo "$REPO" \
+            --title "Lahenduse testimine" \
+            --label "testimine" \
+            --body "$(cat <<'EOF'
+          ## Kirjeldus
+
+          Testi loodud lahendust ja kirjelda testimise käigus tehtud tähelepanekud.
+
+          ## Miks see on vajalik
+
+          Testimine aitab leida kohti, mida tuleb enne lõppversiooni parandada.
+
+          ## Tegevused
+
+          - testi lahenduse loogikat
+          - testi info leitavust
+          - testi mobiilivaadet
+          - kirjelda tulemused failis `docs/testimise-markmed.md`
+
+          ## Valmiskriteerium
+
+          Ülesanne on valmis siis, kui testimine on tehtud ja peamised tähelepanekud on kirja pandud.
+
+          ## Lisainfo
+
+          Testimise tulemustest peaks selguma, mida tuleks parandada.
+          EOF
+          )"
+
+          gh issue create --repo "$REPO" \
+            --title "Paranduste tegemine" \
+            --label "parandus" \
+            --body "$(cat <<'EOF'
+          ## Kirjeldus
+
+          Tee lahenduses parandused testimise käigus leitud probleemide põhjal.
+
+          ## Miks see on vajalik
+
+          Parandused aitavad muuta lahenduse selgemaks, kasutajasõbralikumaks ja paremini toimivaks.
+
+          ## Tegevused
+
+          - vaata üle testimise märkmed
+          - tee vajalikud parandused
+          - kontrolli parandatud lahendust uuesti
+
+          ## Valmiskriteerium
+
+          Ülesanne on valmis siis, kui testimisel leitud olulised probleemid on parandatud.
+
+          ## Lisainfo
+
+          Parandused võivad olla seotud nii kujunduse, sisu kui ka mobiilivaatega.
+          EOF
+          )"
+
+          gh issue create --repo "$REPO" \
+            --title "Lõppkokkuvõtte koostamine" \
+            --label "dokumentatsioon" \
+            --body "$(cat <<'EOF'
+          ## Kirjeldus
+
+          Koosta projekti kohta kokkuvõte, mis kirjeldab tehtud tööd, saavutatud tulemust ja olulisemaid tähelepanekuid.
+
+          ## Miks see on vajalik
+
+          Lõppkokkuvõte aitab näidata, mida projekti käigus tehti ja milline tulemus saavutati.
+
+          ## Tegevused
+
+          - kirjelda tehtud töö peamised etapid
+          - võta kokku saadud tulemus
+          - lisa kokkuvõte sobivasse faili või dokumentatsiooni
+
+          ## Valmiskriteerium
+
+          Ülesanne on valmis siis, kui projekti kohta on olemas arusaadav kirjalik kokkuvõte.
+
+          ## Lisainfo
+
+          Kokkuvõttes võib välja tuua ka selle, mida teeksid järgmisel korral teisiti.
+          EOF
+          )"
