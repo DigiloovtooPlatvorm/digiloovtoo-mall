@@ -3,37 +3,36 @@
 Selles failis kirjeldatakse digiloovtöö põhiandmeid. Täida väljad võimalikult selgelt ja lühidalt, et töö eesmärk, sisu ja oodatav tulemus oleksid arusaadavad nii autorile, juhendajale kui ka teistele lugejatele.
 
 ## Töö pealkiri
-PLACEHOLDER
+ajutine tekst
 
 ## Autor(id)
-PLACEHOLDER
-
+ajutine tekst
 ## Juhendaja
-PLACEHOLDER
+ajutine tekst
 
 ## Eesmärk
 Kirjelda lühidalt, mida soovid selle tööga saavutada.
 
-PLACEHOLDER
+ajutine tekst
 
 ## Lühikirjeldus
 Kirjelda paari lausega, mis töö see on ja mida selle käigus tehakse.
 
-PLACEHOLDER
+ajutine tekst
 
 ## Kellele töö on suunatud
 Kirjelda sihtrühma, kellele lahendus, materjal või projekt on mõeldud.
 
-PLACEHOLDER
+ajutine tekst
 
 ## Oodatav tulemus
 Kirjelda, milline peaks töö lõpptulemus olema.
 
-PLACEHOLDER
+ajutine tekst
 
 ## Tähtsamad tegevused või tööetapid
 Too välja peamised sammud või etapid, mille kaudu töö valmib.
 
-- PLACEHOLDER
-- PLACEHOLDER
-- PLACEHOLDER
+- ajutine tekst
+- ajutine tekst
+- ajutine tekst
