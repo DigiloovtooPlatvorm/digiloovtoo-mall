@@ -39,10 +39,21 @@ Kui Wiki ei ole veel repositooriumis nähtav, tuleb see sisse lülitada.
 
 1. Ava repositoorium.
 2. Mine vaatesse **Settings**.
+
+   ![Settings vaade](https://github.com/user-attachments/assets/3da0d3cc-c662-4832-b500-5d8c08d88832)
+
 3. Otsi jaotisest **Features** valik **Wiki**.
-4. Lülita Wiki sisse.
+
+   > **NB!** Veendu, et repositoorium oleks avalik.
+
+   ![Wiki valik Features jaotises](https://github.com/user-attachments/assets/5691b45f-efd9-4f7c-884b-fbe07f66001b)
+
+4. Lülita **Wiki** sisse.
 
 Pärast seda ilmub repositooriumi menüüsse sakk **Wiki**.
+
+![Wiki sakk](https://github.com/user-attachments/assets/0450bf22-26cc-4361-923c-fb9dafdf3888)
+
 
 ## Kuidas luua uus wiki leht
 
