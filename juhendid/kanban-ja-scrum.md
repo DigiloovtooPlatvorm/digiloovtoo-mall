@@ -5,7 +5,7 @@ Selles juhendis selgitatakse, kuidas kasutada GitHubi digiloovtöö ülesannete,
 GitHubis saab projektitöö korraldamiseks kasutada:
 - **Issues** – ülesannete, küsimuste ja probleemide kirjeldamiseks
 - **Projects** – tööde jälgimiseks tahvlivaates
-- **Milestones** – tööetappide või sprintide tähistamiseks
+- **Tähtajad (Milestones)** – tööetappide või sprintide tähistamiseks
 
 Oluline on arvestada, et projektitahvel ja milestone’id ei tule digiloovtöö malli kasutamisel uude repositooriumisse automaatselt kaasa. Kui soovid kasutada Kanban- või Scrum-tüüpi töökorraldust, tuleb need uues repositooriumis ise luua ja seadistada.
 
@@ -30,7 +30,7 @@ See aitab näha:
 Scrumi loogikat saab GitHubis kasutada nii, et töö jagatakse väiksemateks etappideks ehk sprintideks.
 
 GitHubis saab sprintide või tööetappide jaoks kasutada:
-- **Milestones**
+- **Tähtajad (Milestones)**
 - või kokkuleppelist jaotust Projects vaates
 
 Näiteks võib sprint olla:
@@ -79,7 +79,7 @@ Milestone’e saab kasutada issue’de rühmitamiseks ja tööetappide jälgimis
 ### Milestone’i loomine
 
 1. Ava repositooriumis sakk **Issues**.
-2. Vali **Milestones**.
+2. Vali **Tähtajad (Milestones)**.
 3. Vajuta **New milestone**.
 4. Pane milestone’ile nimi.
 5. Lisa vajadusel kirjeldus ja tähtaeg.
@@ -113,6 +113,6 @@ Näiteks:
 GitHubis saab digiloovtöö korraldamiseks kasutada:
 - **Issues** ülesannete jaoks
 - **Projects** tahvlivaate jaoks
-- **Milestones** sprintide või tööetappide jaoks
+- **Tähtajad (Milestones)** sprintide või tööetappide jaoks
 
 See aitab teha töö edenemise nähtavaks nii õpilasele kui ka juhendajale.
