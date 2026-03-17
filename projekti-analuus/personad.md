@@ -13,76 +13,76 @@ Persona ei pea kirjeldama päris inimest, vaid usutavat ja tüüpilist kasutajat
 ## Persoona 1
 
 ### Nimi
-PLACEHOLDER
+ajutine tekst
 
 ### Vanus
-PLACEHOLDER
+ajutine tekst
 
 ### Roll või taust
-PLACEHOLDER
+ajutine tekst
 
 ### Eesmärgid
 Kirjelda, mida see kasutaja tahab saavutada.
 
-PLACEHOLDER
+ajutine tekst
 
 ### Vajadused
 Kirjelda, mida kasutaja vajab, et oma eesmärki saavutada.
 
-PLACEHOLDER
+ajutine tekst
 
 ### Probleemid või raskused
 Kirjelda, mis võib kasutaja jaoks olla keeruline või takistav.
 
-PLACEHOLDER
+ajutine tekst
 
 ### Harjumused
 Kirjelda, kuidas kasutaja tavaliselt tegutseb või milliseid vahendeid kasutab.
 
-PLACEHOLDER
+ajutine tekst
 
 ### Märkused
 Lisa vajadusel muu oluline info, mis aitab kasutajat paremini mõista.
 
-PLACEHOLDER
+ajutine tekst
 
 ---
 
 ## Persoona 2
 
 ### Nimi
-PLACEHOLDER
+ajutine tekst
 
 ### Vanus
-PLACEHOLDER
+ajutine tekst
 
 ### Roll või taust
-PLACEHOLDER
+ajutine tekst
 
 ### Eesmärgid
 Kirjelda, mida see kasutaja tahab saavutada.
 
-PLACEHOLDER
+ajutine tekst
 
 ### Vajadused
 Kirjelda, mida kasutaja vajab, et oma eesmärki saavutada.
 
-PLACEHOLDER
+ajutine tekst
 
 ### Probleemid või raskused
 Kirjelda, mis võib kasutaja jaoks olla keeruline või takistav.
 
-PLACEHOLDER
+ajutine tekst
 
 ### Harjumused
 Kirjelda, kuidas kasutaja tavaliselt tegutseb või milliseid vahendeid kasutab.
 
-PLACEHOLDER
+ajutine tekst
 
 ### Märkused
 Lisa vajadusel muu oluline info, mis aitab kasutajat paremini mõista.
 
-PLACEHOLDER
+ajutine tekst
 
 ## Näide
 
