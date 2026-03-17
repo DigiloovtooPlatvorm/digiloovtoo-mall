@@ -13,84 +13,83 @@ Stsenaarium kirjeldab kasutusolukorda samm-sammult ja aitab siduda kasutaja vaja
 ## Stsenaarium 1
 
 ### Pealkiri
-PLACEHOLDER
+ajutine tekst
 
 ### Seotud persoona
 Kirjuta siia selle persoona nimi, kelle vaatenurgast olukorda kirjeldad.
 
-PLACEHOLDER
+ajutine tekst
 
 ### Olukorra kirjeldus
 Kirjelda lühidalt, mis olukorras kasutaja on.
 
-PLACEHOLDER
+ajutine tekst
 
 ### Kasutaja eesmärk
 Kirjelda, mida kasutaja tahab saavutada.
 
-PLACEHOLDER
+ajutine tekst
 
 ### Tegevuse käik
 Kirjelda lühidalt, milliseid samme kasutaja teeb.
 
-PLACEHOLDER
+ajutine tekst
 
 ### Oodatav tulemus
 Kirjelda, milline tulemus peaks selle tegevuse järel tekkima.
 
-PLACEHOLDER
+ajutine tekst
 
 ### Võimalikud probleemid
 Kirjelda, mis võib kasutaja jaoks olla keeruline või takistav.
 
-PLACEHOLDER
-
+ajutine tekst
 ### Märkused
 Lisa vajadusel muu oluline info.
 
-PLACEHOLDER
+ajutine tekst
 
 ---
 
 ## Stsenaarium 2
 
 ### Pealkiri
-PLACEHOLDER
+ajutine tekst
 
 ### Seotud persoona
 Kirjuta siia selle persoona nimi, kelle vaatenurgast olukorda kirjeldad.
 
-PLACEHOLDER
+ajutine tekst
 
 ### Olukorra kirjeldus
 Kirjelda lühidalt, mis olukorras kasutaja on.
 
-PLACEHOLDER
+ajutine tekst
 
 ### Kasutaja eesmärk
 Kirjelda, mida kasutaja tahab saavutada.
 
-PLACEHOLDER
+ajutine tekst
 
 ### Tegevuse käik
 Kirjelda lühidalt, milliseid samme kasutaja teeb.
 
-PLACEHOLDER
+ajutine tekst
 
 ### Oodatav tulemus
 Kirjelda, milline tulemus peaks selle tegevuse järel tekkima.
 
-PLACEHOLDER
+ajutine tekst
 
 ### Võimalikud probleemid
 Kirjelda, mis võib kasutaja jaoks olla keeruline või takistav.
 
-PLACEHOLDER
+ajutine tekst
 
 ### Märkused
 Lisa vajadusel muu oluline info.
 
-PLACEHOLDER
+ajutine tekst
 
 ## Näide
 
