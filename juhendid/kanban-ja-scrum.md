@@ -7,7 +7,7 @@ GitHubis saab projektitöö korraldamiseks kasutada:
 - **Projects** – tööde jälgimiseks tahvlivaates
 - **Tähtajad (Milestones)** – tööetappide või sprintide tähistamiseks
 
-Oluline on arvestada, et projektitahvel ja milestone’id ei tule digiloovtöö malli kasutamisel uude repositooriumisse automaatselt kaasa. Kui soovid kasutada Kanban- või Scrum-tüüpi töökorraldust, tuleb need uues repositooriumis ise luua ja seadistada.
+Oluline on arvestada, et projektitahvel ja tähtajad ei tule digiloovtöö malli kasutamisel uude repositooriumisse automaatselt kaasa. Kui soovid kasutada Kanban- või Scrum-tüüpi töökorraldust, tuleb need uues repositooriumis ise luua ja seadistada.
 
 ## 1. Mis on Kanban GitHubis
 
@@ -50,7 +50,7 @@ Näiteks võib sprint olla:
 3. Pane ülesandele pealkiri.
 4. Kirjelda, mida on vaja teha.
 5. Vajadusel määra ülesande tegija.
-6. Vajadusel seo ülesanne milestone’i või projektiga.
+6. Vajadusel seo ülesanne tähtaegadega või projektiga.
 
 Kui repositooriumis on loodud issue template’id, pakub GitHub need uue issue loomisel automaatselt välja.
 
@@ -72,18 +72,18 @@ Soovituslik veergude jaotus:
 - **In Progress**
 - **Done**
 
-## 5. Kuidas kasutada milestone’e sprindina
+## 5. Kuidas kasutada tähtaegu sprindina
 
-Milestone’e saab kasutada issue’de rühmitamiseks ja tööetappide jälgimiseks.
+Tähtaegu saab kasutada issue’de rühmitamiseks ja tööetappide jälgimiseks.
 
-### Milestone’i loomine
+### Tähtaja loomine
 
 1. Ava repositooriumis sakk **Issues**.
 2. Vali **Tähtajad (Milestones)**.
 3. Vajuta **New milestone**.
-4. Pane milestone’ile nimi.
+4. Pane tähtajale nimi.
 5. Lisa vajadusel kirjeldus ja tähtaeg.
-6. Seo sobivad issue’d vastava milestone’iga.
+6. Seo sobivad issue’d vastava tähtajaga.
 
 Näiteks:
 - **Sprint 1 – analüüs**
@@ -97,7 +97,7 @@ Näiteks:
 3. Mõtle läbi projekti analüüsi osa.
 4. Loo vajalikud issue’d.
 5. Loo projektitahvel.
-6. Jaga töö milestone’ideks või sprintideks.
+6. Jaga töö tähtaegadeks või sprintideks.
 7. Liiguta ülesandeid vastavalt töö edenemisele.
 
 ## 7. Soovitused
@@ -105,7 +105,7 @@ Näiteks:
 - Hoia töövoog võimalikult lihtne.
 - Ära loo korraga liiga palju veerge ega välju.
 - Loo ülesanded väiksemateks ja arusaadavateks sammudeks.
-- Kasuta milestone’e siis, kui tahad töö etapid selgelt eristada.
+- Kasuta tähtaegu siis, kui tahad töö etapid selgelt eristada.
 - Uuenda tahvlit regulaarselt, mitte alles töö lõpus.
 
 ## 8. Kokkuvõte
