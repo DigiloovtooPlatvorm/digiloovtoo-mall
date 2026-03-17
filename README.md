@@ -13,7 +13,7 @@ Selle malli kasutamisel luuakse uus repositoorium sama failistruktuuri ja põhif
 - kaust `docs/`
 - issue template'id
 
-Kui repositoorium luuakse organisatsiooni alla, kus on eelnevalt määratud vaikimisi labelid, lisanduvad ka need automaatselt.
+Kui repositoorium luuakse organisatsiooni alla, kus on eelnevalt määratud vaikimisi sildid, lisanduvad ka need automaatselt.
 
 ## Mida tuleb pärast uue repositooriumi loomist eraldi seadistada
 
