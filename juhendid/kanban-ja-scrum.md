@@ -1,5 +1,3 @@
-# Kanban ja Scrum GitHubis
-
 Selles juhendis selgitatakse, kuidas kasutada GitHubi digiloovtöö ülesannete, tööetappide ja edenemise jälgimiseks.
 
 GitHubis saab projektitöö korraldamiseks kasutada:
@@ -53,24 +51,58 @@ Näiteks võib sprint olla:
 6. Vajadusel seo ülesanne tähtaegadega või projektiga.
 
 Kui repositooriumis on loodud issue template’id, pakub GitHub need uue issue loomisel automaatselt välja.
-
 ## 4. Kuidas luua Kanban-tahvel
 
-Kanban-vaate jaoks sobib GitHubis kõige paremini **Board** tüüpi projekt.
+Kanban-vaate jaoks sobib GitHubis kõige paremini **Board** tüüpi projekt. Projektitahvli saab luua kahel viisil: kas täiesti uuena või valmis malli abil.
 
-### Projekti loomine
+### 4.1 Projekti loomine nullist
 
 1. Ava repositoorium või organisatsioon.
 2. Ava sakk **Projects**.
-3. Vajuta **New project**.
+
+   ![Projects sakk](https://github.com/user-attachments/assets/c807868e-1325-4ca4-a228-bc7efac9b0f2)
+
+3. Vajuta **+ New project**.
+
+   ![New project nupp](https://github.com/user-attachments/assets/b1852643-0091-43cc-b6df-4562ad595374)
+
 4. Vali **Board**.
 5. Pane projektile nimi.
 6. Loo vajalikud veerud või kasuta olemasolevat jaotust.
+7. Alusta tahvli täitmist.
 
 Soovituslik veergude jaotus:
 - **Todo**
 - **In Progress**
 - **Done**
+
+### 4.2 Projekti loomine valmis malli abil
+
+Kui sa ei soovi projektitahvlit ise nullist seadistada, võid kasutada valmis malli.
+
+1. Ava sakk **Projects**.
+
+   ![Projects sakk](https://github.com/user-attachments/assets/c807868e-1325-4ca4-a228-bc7efac9b0f2)
+
+2. Vajuta **+ New project**.
+
+   ![New project nupp](https://github.com/user-attachments/assets/b1852643-0091-43cc-b6df-4562ad595374)
+
+3. Vali mallide hulgast **From your organization**.
+
+   ![From your organization valik](https://github.com/user-attachments/assets/635f5342-c654-4278-9160-5dc8f057dc08)
+
+4. Vali **Digiloovtööde projektitahvel**.
+
+   ![Digiloovtööde projektitahvel](https://github.com/user-attachments/assets/18cf28b9-5e55-4321-bf60-7242539f3e56)
+
+5. Pane projektile nimi.
+
+   ![Projekti nime määramine](https://github.com/user-attachments/assets/008d6d66-15a5-42d7-b105-77bbf0c3837a)
+
+6. Alusta tahvli täitmist.
+
+Pärast loomist saad hakata lisama ülesandeid ning liigutama neid veergude vahel vastavalt töö edenemisele.
 
 ## 5. Kuidas kasutada tähtaegu sprindina
 
