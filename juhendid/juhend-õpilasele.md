@@ -30,6 +30,31 @@ Kui töötate meeskonnana, peab kõigil olulistel osapooltel olema ligipääs re
 3. Lisa oma tiimikaaslased.
 4. Lisa õpetaja, kui see on kokku lepitud.
 
+### Automaatne algseadistus GitHub Actionsi abil
+
+Digiloovtöö mallis on võimalik kasutada GitHub Actionsi töövoogu, mis loob uues repositooriumis vaikimisi vajalikud alguse issue'd.
+
+See aitab alustada projekti ühtse tööstruktuuri järgi ja vähendab käsitsi seadistamise vajadust. Töövoog loob alguseks näiteks projekti kirjelduse täitmise ja projektitahvli seadistamisega seotud ülesanded.
+
+#### Kuidas seda kasutada
+
+1. Ava mallist loodud uus repositoorium.
+2. Mine vaatesse **Actions**.
+3. Vali töövoog **Loo alguse issue'd**.
+4. Vajuta **Run workflow**.
+
+Pärast seda luuakse repositooriumisse alguse issue'd, mida saad kasutada töö planeerimiseks ja edenemise jälgimiseks.
+
+#### Mida see ei tee automaatselt
+
+GitHub Actionsi töövoog aitab luua alguse ülesanded, kuid ei seadista automaatselt kõiki GitHubi töövahendeid. Vajadusel tuleb uues repositooriumis eraldi:
+- luua või kasutusele võtta projektitahvel
+- seadistada milestone'id
+- lülitada sisse Wiki
+- kohandada Discussions kategooriad
+
+Seega tasub pärast töövoo käivitamist vaadata üle, millised töövahendid on sinu projekti jaoks vajalikud.
+
 ## 2. Täida projekti põhiandmed
 
 Pärast repositooriumi loomist ava fail `projekti-kirjeldus.md`.
