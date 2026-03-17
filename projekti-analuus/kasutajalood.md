@@ -16,27 +16,27 @@ Hea kasutajalugu on lühike, selge ja seotud päris kasutaja vajadusega.
 ### Kasutaja
 Kirjuta siia, kes seda vajadust omab.
 
-PLACEHOLDER
+ajutine tekst
 
 ### Kasutajalugu
-Kasutajana soovin ma PLACEHOLDER, et PLACEHOLDER.
+Kasutajana soovin ma "ajutine tekst", et "ajutine tekst".
 
 ### Selgitus
 Kirjelda lühidalt, miks see vajadus on oluline ja mida see kasutaja jaoks tähendab.
 
-PLACEHOLDER
+ajutine tekst
 
 ### Võimalikud alamülesanded
 Kirjuta siia väiksemad tegevused, mis aitavad selle kasutajaloo ellu viia.
 
-- [ ] PLACEHOLDER
-- [ ] PLACEHOLDER
-- [ ] PLACEHOLDER
+- [ ] ajutine tekst
+- [ ] ajutine tekst
+- [ ] ajutine tekst
 
 ### Märkused
 Lisa vajadusel muu oluline info.
 
-PLACEHOLDER
+ajutine tekst
 
 ---
 
@@ -45,27 +45,27 @@ PLACEHOLDER
 ### Kasutaja
 Kirjuta siia, kes seda vajadust omab.
 
-PLACEHOLDER
+ajutine tekst
 
 ### Kasutajalugu
-Kasutajana soovin ma PLACEHOLDER, et PLACEHOLDER.
+Kasutajana soovin ma "ajutine tekst", et "ajutine tekst".
 
 ### Selgitus
 Kirjelda lühidalt, miks see vajadus on oluline ja mida see kasutaja jaoks tähendab.
 
-PLACEHOLDER
+ajutine tekst
 
 ### Võimalikud alamülesanded
 Kirjuta siia väiksemad tegevused, mis aitavad selle kasutajaloo ellu viia.
 
-- [ ] PLACEHOLDER
-- [ ] PLACEHOLDER
-- [ ] PLACEHOLDER
+- [ ] ajutine tekst
+- [ ] ajutine tekst
+- [ ] ajutine tekst
 
 ### Märkused
 Lisa vajadusel muu oluline info.
 
-PLACEHOLDER
+ajutine tekst
 
 ## Näide
 
