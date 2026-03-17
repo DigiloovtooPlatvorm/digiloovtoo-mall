@@ -21,7 +21,7 @@ Mõned GitHubi töövahendid ei tule repositooriumi malli kasutamisel automaatse
 
 - **Wiki** – kui soovid kasutada wiki't pikemate juhiste ja töökorralduse jaoks, loe juhendit [Wiki kasutamise juhend](./juhendid/wiki-kasutamine.md)
 - **Projects** – projektitahvel tuleb uues repositooriumis vajadusel eraldi luua või seadistada
-- **Muud töökorralduse seaded** – vajadusel tuleb üle vaadata ka milestones ja muud projekti seadistused
+- **Muud töökorralduse seaded** – vajadusel tuleb üle vaadata ka tähtajad ja muud projekti seadistused
 
 ## Kiirlingid
 
