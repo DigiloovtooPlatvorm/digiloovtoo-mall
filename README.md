@@ -33,6 +33,7 @@ Mõned GitHubi töövahendid ei tule repositooriumi malli kasutamisel automaatse
 - [Projekti analüüs](./projekti-analuus)
 - [docs](./docs)
 
+
 ## Alusta siit
 
 1. Vajuta **Use this template**.
@@ -44,6 +45,18 @@ Mõned GitHubi töövahendid ei tule repositooriumi malli kasutamisel automaatse
 7. Lisa töö käigus tekkivad materjalid kausta [`docs/`](./docs).
 8. Vajadusel seadista uues repositooriumis Wiki ja projektitahvel.
 9. Kasuta GitHubi töövahendeid ülesannete, arutelude ja edenemise jälgimiseks.
+
+## Automaatne algseadistus
+
+Selles mallis on võimalik kasutada GitHub Actionsi töövoogu, mis loob uues repositooriumis vaikimisi vajalikud alguse issue'd.
+
+Selle kasutamiseks:
+1. ava mallist loodud uus repositoorium
+2. mine vaatesse **Actions**
+3. vali töövoog **Loo alguse issue'd**
+4. vajuta **Run workflow**
+
+See aitab alustada projekti ühtse tööstruktuuri järgi ja vähendab käsitsi seadistamise vajadust.
 
 ## Mida mall sisaldab
 
