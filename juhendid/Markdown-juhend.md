@@ -31,6 +31,7 @@ Näide 4. Sisuteksti kirjutamine Markdown formaadis.
 
 <img width="837" height="99" alt="Screenshot 2026-04-04 123948" src="https://github.com/user-attachments/assets/ddc4b85b-44b3-4405-b6af-f1382c97b2d7" />  
 
+
 Näide 5. Sisuteksti kuvamine lugejale.
 
 Sisutekstis konkreetse vahe jätmiseks (lõik), jäta vahele üks rida Markdown formaadis, kasuta lause lõpus kaks tühikut või <img width="27" height="16" alt="image" src="https://github.com/user-attachments/assets/a2c3cb7e-dd58-4ef1-a7d3-390ec268048c" /> märgist.
