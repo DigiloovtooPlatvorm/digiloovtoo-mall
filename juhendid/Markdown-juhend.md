@@ -58,7 +58,7 @@ Näidisel on näha, et GitHub näitab teksti koheselt kaldkirjas, sarnaselt rasv
 
 ### Rasvane ja kaldkiri koos (bold ja italic)
 Selleks, et kasutada rasvast (bold) ja kaldkirja (italic) koos, tuleb kasutada kolme tärni (***).
-Nätieks: Ma tahan rõhutada just ***seda teksti osa***. <img width="362" height="21" alt="image" src="https://github.com/user-attachments/assets/8c9d054b-2200-436d-8508-6d4c352603e6" />  
+Näiteks: Ma tahan rõhutada just ***seda teksti osa***. <img width="362" height="21" alt="image" src="https://github.com/user-attachments/assets/8c9d054b-2200-436d-8508-6d4c352603e6" />  
 
 <img width="630" height="27" alt="Screenshot 2026-04-04 124827" src="https://github.com/user-attachments/assets/a5e2603b-3dc1-4987-8c4b-256a90c9d97b" />
 
