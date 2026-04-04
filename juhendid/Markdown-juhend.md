@@ -123,5 +123,8 @@ NB! Nurksulu saamiseks hoia all paremal pool “alt” ja vajuta klaviatuuril 8 
 Piltide lisamine Markdown formaadis on kopeerimine ja kleepimine ehk copy-paste. Esmalt tuleb kopeerida pilt (nt ekraanitõmmisega, PrtSc) või kopeerida Googlest ning seejärel kleepida otse vastavasse kohta.
 Teine variant on arvutis olevad pildid lohistada hiirega õigesse kohta.
 
-
+## Nippe Markdowni jaoks
+- Alati saad näitena ette võtta mallis olemasolevad .md failid. Vaata, kuidas on need Markdownis kirjas ning kuidas kuvatakse lugejale.
+- Internetis on palju materjale, näiteid ja juhiseid, kuidas konkreetset osa Markdownis kirjutada.
+- Kasuta Markdowni tegemiseks tehisaru aru, mis aitab teha näiteks tabelit või muid keerulisemaid Markdowne, mida siin kirjeldatud ei ole.
 
