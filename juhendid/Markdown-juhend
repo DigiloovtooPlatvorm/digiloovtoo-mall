@@ -1,2 +1,4 @@
 # Markdown juhend õpetajale ja õpilasele
+Juhendi aluseks on võetud: Cone, M. (2026). Getting started. Markdown Guide. https://www.markdownguide.org/basic-syntax/
 
+John Gruberi poolt 2004. aastal loodud Markdown on märgistuskeel, mida saab kasutada lihtteksti vormistamisel (Cone, 2026). Markdown’i faililaiend on .md või .markdown. GitHubis on märgitud need .md failidena.
