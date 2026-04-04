@@ -101,7 +101,7 @@ Kõik näited annavad kokku loetelu punktidega.
 
 <img width="867" height="180" alt="Screenshot 2026-04-04 125556" src="https://github.com/user-attachments/assets/e3f4e06d-8264-4a63-8a4a-d371fdfa9278" />  
 
-Näide 9. Punktiline loetelu. Markdown formaadis on kasutatud kriipsu (-).
+**Näide 9. Punktiline loetelu. Markdown formaadis on kasutatud kriipsu (-).**
 
 ### Linkide lisamine tekstile
 Linkide lisamisel on mitu erinevat moodust. Kõige lihtsam ja soovitatud viis on lisada kõige pealt tutvustav tekst, siis lingi pealne tekst ja seejärel sulgudesse lisada veebiaadress (URL).
@@ -111,11 +111,11 @@ Esimene osa tuleb tekstina, nurksulgudes (kandilised) lisada lingi nimi ning see
 
 <img width="744" height="47" alt="Screenshot 2026-04-04 130015" src="https://github.com/user-attachments/assets/da2e102b-712b-489f-babe-04491a1826dc" />  
 
-Näide 10. Markdown formaadis näide lingi lisamisest.
+**Näide 10. Markdown formaadis näide lingi lisamisest.**
 
 <img width="423" height="31" alt="Screenshot 2026-04-04 130020" src="https://github.com/user-attachments/assets/d79a5998-c5d9-4274-b49d-4e5c01e62d20" />
 
-Näide 11. Lugejale kuvatud tekst koos lingiga.
+**Näide 11. Lugejale kuvatud tekst koos lingiga.**
 
 NB! Nurksulu saamiseks hoia all paremal pool “alt” ja vajuta klaviatuuril 8 ja 9. 
 
