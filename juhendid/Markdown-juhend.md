@@ -17,22 +17,22 @@ Kokku kuni kuus pealkirja formaati (st kuni kuus # märki).
 
 <img width="827" height="94" alt="Screenshot 2026-04-04 123301" src="https://github.com/user-attachments/assets/e3603a96-8918-4880-b7a3-4fa7d5cb6d99" />  
 
-Näide 2. Markdown formaadis teksti kirjutamine.
+**Näide 2. Markdown formaadis teksti kirjutamine.**
 
 <img width="855" height="141" alt="Screenshot 2026-04-04 123307" src="https://github.com/user-attachments/assets/437c4786-7e2d-4969-9b19-15c531cc2af8" />  
 
-Näide 3. Lugejale teksti kuvamine.
+**Näide 3. Lugejale teksti kuvamine.**
 
 ### Sisutekst
 Sisuteksti kirjutatakse Markdown formaadis nii nagu tavalises tekstifailis nt Google Docsis või Wordis. 
 <img width="811" height="75" alt="Screenshot 2026-04-04 123933" src="https://github.com/user-attachments/assets/5ba2a35e-2376-4784-a44e-c58ab273289d" />  
 
-Näide 4. Sisuteksti kirjutamine Markdown formaadis.
+**Näide 4. Sisuteksti kirjutamine Markdown formaadis.**
 
 <img width="837" height="99" alt="Screenshot 2026-04-04 123948" src="https://github.com/user-attachments/assets/ddc4b85b-44b3-4405-b6af-f1382c97b2d7" />  
 
 
-Näide 5. Sisuteksti kuvamine lugejale.
+**Näide 5. Sisuteksti kuvamine lugejale.**
 
 Sisutekstis konkreetse vahe jätmiseks (lõik), jäta vahele üks rida Markdown formaadis, kasuta lause lõpus kaks tühikut või <img width="27" height="16" alt="image" src="https://github.com/user-attachments/assets/a2c3cb7e-dd58-4ef1-a7d3-390ec268048c" /> märgist.
 
@@ -42,7 +42,7 @@ Näiteks: Mulle **väga** meeldib rasvases kirjas teksti **rõhutada**. <img wid
 
 <img width="268" height="56" alt="Screenshot 2026-04-04 124347" src="https://github.com/user-attachments/assets/c591e752-e572-461a-8651-506391a8fca8" />  
 
-Näide. 6. Rasvane kiri sõnal "virtuaalne".
+**Näide. 6. Rasvane kiri sõnal "virtuaalne".**
 
 GitHub näitab juba Markdown formaadis sõna rasvases kirjas, kui tärne on õigesti kasutatud.
 
@@ -52,7 +52,7 @@ Näiteks: Kui ma kirjutan mõne sõna inglise keeles, näiteks *cat*, siis ma pa
 
 <img width="808" height="45" alt="Screenshot 2026-04-04 124621" src="https://github.com/user-attachments/assets/e5240422-16a7-4456-bf96-cb1ea6870e0d" />  
 
-Näide 7. Lisasin pealkirja kaldkirja ühe tärniga.
+**Näide 7. Lisasin pealkirja kaldkirja ühe tärniga.**
 
 Näidisel on näha, et GitHub näitab teksti koheselt kaldkirjas, sarnaselt rasvasele kirjale.
 
@@ -62,7 +62,7 @@ Nätieks: Ma tahan rõhutada just ***seda teksti osa***. <img width="362" height
 
 <img width="630" height="27" alt="Screenshot 2026-04-04 124827" src="https://github.com/user-attachments/assets/a5e2603b-3dc1-4987-8c4b-256a90c9d97b" />
 
-Näide 8. Rõhutasin nii rasvases kui ka kaldkirjas olulist.
+**Näide 8. Rõhutasin nii rasvases kui ka kaldkirjas olulist.**
 
 ### Listid
 Numbritega list, mis eeldab teatavat järjekorda, lisan numbrid ülevalt alla 1., 2. jne. Võin kasutada ka 1., 1. 1. jne (Markdown formaat annab sellele ise järjestikuse numeratsiooni).
