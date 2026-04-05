@@ -1,46 +1,40 @@
 # Persoonad
 
-Siia kirjeldage oma projekti võimalikke kasutajaid.
+Kirjelda siin oma projekti kasutajaid lihtsal kujul.
 
 ## Mis on persoon?
 
-Persoon on väljamõeldud, aga realistlik kasutaja, kes aitab mõelda, kelle jaoks te oma projekti loote.
+Persoon on näidiskasuta, kes aitab mõelda, kelle jaoks te oma projekti teete.
 
 ---
-## Näide
 
-## Persoon 1 
+## Persoon 1
 
 ### Nimi
-Näide: Mari
+Mari
 
-### Vanus
+### Kes ta on?
+8. klassi õpilane, kes teeb digiloovtööd koos oma grupiga.
 
-### Roll
-Näide: põhikooli õpilane, õpetaja, lapsevanem
+### Mida ta tahab teha?
+Ta tahab oma grupi ülesandeid lihtsasti jälgida, näha, mis on juba tehtud, ja aru saada, mida ta peab järgmisena tegema.
 
-### Eesmärk
-Mida see kasutaja tahab saavutada?
+### Mida ta vajab?
+Ta vajab selget tööjaotust, lihtsaid juhiseid ja ühte kohta, kus kõik projektiga seotud failid ja ülesanded on olemas.
 
-### Vajadused
-Mida ta teie lahenduselt ootab?
-
-### Raskused
-Mis võib talle keeruline olla?
+### Mis võib tema jaoks keeruline olla?
+Tal võib olla raske aru saada GitHubi mõistetest ja sellest, kuidas suurem töö väiksemateks ülesanneteks jagada.
 
 ---
+
 ## Persoon 2
 
 ### Nimi
 
-### Vanus
+### Kes ta on?
 
-### Roll
+### Mida ta tahab teha?
 
-### Eesmärk
+### Mida ta vajab?
 
-### Vajadused
-
-### Raskused
-
----
+### Mis võib tema jaoks keeruline olla?
