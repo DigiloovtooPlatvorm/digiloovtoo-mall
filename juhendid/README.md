@@ -48,3 +48,8 @@ Peamised töövahendid selles mallis on:
 - Wiki ja Discussions on lisavõimalused edasijõudnutele.
 - Kõiki juhendeid ei pea korraga lugema.
 - Ava see juhend, mida sul parasjagu vaja on.
+
+## Lisavõimalused edasijõudnutele
+
+- [`wiki-kasutamine.md`](./wiki-kasutamine.md) – juhend GitHub Wiki kasutamiseks
+- [`edasijõudnutele-wiki-ja-discussions.md`](./edasij%C3%B5udnutele-wiki-ja-discussions.md) – ülevaade lisavõimalustest
