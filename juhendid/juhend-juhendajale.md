@@ -2,14 +2,19 @@
 
 See juhend aitab juhendajal digiloovtöö repositooriumi käivitada, suunata ja kasutada.
 
-## Juhendaja roll
+## Juhendaja roll repositooriumi loomisel
+
+Selles mallis loob uue repositooriumi **juhendaja või õpetaja**.
 
 Juhendaja:
 - loob repositooriumi malli põhjal;
 - jääb repositooriumi omanikuks või haldajaks;
 - lisab õpilased projekti liikmeteks;
-- aitab õpilastel töö käivitada;
-- jälgib töö edenemist ja toetab meeskonda.
+- annab õpilastele vajalikud õigused;
+- suunab töö alustamist ja jälgib töö edenemist.
+
+Õpilased ei pea uut repositooriumi ise looma.  
+Nende ülesanne on kasutada juhendaja loodud tööruumi ning täita seal projekti käigus vajalikke faile, ülesandeid ja arutelusid.
 
 ## Enne töö alustamist
 
