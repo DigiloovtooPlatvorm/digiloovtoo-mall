@@ -11,15 +11,27 @@ Siin asuvad:
 - issue’d ehk ülesanded, küsimused ja probleemid,
 - juhendid.
 
-## Kust alustada?
+## Kuidas töö algab?
 
-Alusta neist sammudest:
+Selles mallis loob repositooriumi **juhendaja või õpetaja**.
+
+Õpilase ülesanne ei ole uut repositooriumi ise luua.  
+Õpilane kasutab seda tööruumi, mille juhendaja on loonud ja millele ta on andnud vajalikud õigused.
+
+See tähendab, et õpilane:
+- avab juhendaja loodud repositooriumi;
+- täidab projekti tööfaile;
+- loob vajadusel issue'sid ja arutelusid;
+- töötab talle antud õiguste piires.
+
+## Millest alustada?
+
+Kui juhendaja on repositooriumi loonud ja ligipääsu andnud, alusta neist sammudest:
 
 1. Ava fail [WIKI/projekti-kirjeldus.md](../WIKI/projekti-kirjeldus.md)
-2. Täida koos meeskonnaga projekti põhinfo
-3. Vaata üle failid kaustas [WIKI](../WIKI/README.md)
-4. Leppige kokku, kes mille eest vastutab
-5. Hakake tööülesandeid kirja panema ja vajadusel issue’sid looma
+2. Tutvu kausta [WIKI](../WIKI/README.md) ülesehitusega
+3. Leppige meeskonnaga kokku, kes mille eest vastutab
+4. Hakake täitma projekti põhifaile ja looma vajalikke issue'sid
 
 ## WIKI kaust
 
