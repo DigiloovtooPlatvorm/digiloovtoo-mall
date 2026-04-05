@@ -10,7 +10,7 @@ Siit kaustast leiad digiloovtöö projekti peamised tööfailid ja dokumentatsio
 - [Teooria](./teooria.md)
 - [Ajakava (üldine)](./ajakava-uldine.md)
 - [Ajakava (sprindid)](./ajakava-sprindid.md)
-- [Planeeritavad issue'd](./planeeritavad-issue-d.md)
+- [Planeeritavad issue'd](./planeeritavad-issued.md)
 - [Vahekokkuvõtted](./vahekokkuvotted.md)
 - [Retrospektiivid](./retrospektiivid.md)
 - [Lõppkokkuvõte](./loppkokkuvote.md)
