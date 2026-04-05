@@ -22,10 +22,6 @@ Kirjelda lühidalt, mida te soovite teha.
 
 Mis on see probleem või vajadus, millele teie projekt lahendust pakub?
 
-## Eesmärk
-
-Mida te tahate selle projektiga saavutada?
-
 ## Sihtrühm
 
 Kellele see projekt on mõeldud?
