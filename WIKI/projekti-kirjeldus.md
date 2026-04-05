@@ -1,77 +1,94 @@
 # Projekti kirjeldus
 
-## Projekti pealkiri
+Kirjuta siia lühidalt ja arusaadavalt, mis projektiga on tegu.
 
-Sisesta oma projekti nimi siia.
+## Projekti pealkiri
 
 ## Projekti autorid
 
-- Õpilane 1:
-- Õpilane 2:
-- Õpilane 3:
+- 
+- 
+- 
 
 ## Juhendaja
 
-- Juhendaja nimi:
+- 
 
 ## Projekti idee
 
-Kirjelda lühidalt, mida te soovite teha.
+Kirjelda 2–4 lausega, mida te soovite teha.
 
-## Probleem
+## Probleem või vajadus
 
-Mis on see probleem või vajadus, millele teie projekt lahendust pakub?
+Mis on see küsimus, mure või vajadus, millele teie projekt vastab?
+
+## Eesmärk
+
+Mida te tahate selle projektiga saavutada?
 
 ## Sihtrühm
 
 Kellele see projekt on mõeldud?
 
+Näiteks:
+- õpilased
+- õpetajad
+- lapsevanemad
+- noored
+- mingi kindel huvirühm
+
 ## Projekti tulemus
 
-Mis valmib projekti lõpuks?
+Mis projekti lõpuks valmib?
 
-Näited:
+Näiteks:
 - veebileht
 - mäng
 - rakendus
+- video
 - digitaalne õppematerjal
 - prototüüp
 
-## Peamised funktsioonid
+## Projekti peamised osad
 
-Kirjuta siia peamised asjad, mida teie lahendus peab oskama.
+Millised on teie projekti kõige olulisemad osad või funktsioonid?
 
-- Funktsioon 1
-- Funktsioon 2
-- Funktsioon 3
+- 
+- 
+- 
 
 ## Töövahendid
 
-Milliseid töövahendeid või platvorme kasutate?
+Milliseid töövahendeid või keskkondi te kasutate?
 
-Näited:
-- GitHub
-- Figma
-- Canva
-- Scratch
-- HTML/CSS/JavaScript
-- Python
+- 
+- 
+- 
+
+## Meeskonna rollid
+
+Kes mille eest vastutab?
+
+- 
+- 
+- 
 
 ## Võimalikud riskid
 
-Mis võib töö käigus keeruliseks osutuda?
+Mis võib projekti käigus osutuda keeruliseks?
 
-- Ajapuudus
-- Tehnilised probleemid
-- Meeskonnatöö raskused
-- Liiga suur töömaht
+- 
+- 
+- 
 
-## Esimene tegevusplaan
+## Esimesed sammud
 
-Mis on teie järgmised 3–5 sammu?
+Mis on teie järgmised tegevused?
 
-1.
-2.
-3.
-4.
-5.
+1. 
+2. 
+3. 
+
+## Märkused
+
+Siia võib lisada muu olulise info projekti kohta.
