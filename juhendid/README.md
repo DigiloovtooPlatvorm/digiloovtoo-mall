@@ -3,41 +3,44 @@
 Selles kaustas asuvad digiloovtöö malli kasutamiseks vajalikud juhendid.
 
 Juhendid aitavad aru saada:
-- kuidas alustada tööd malliga
-- kuidas kasutada repositooriumi õpilase vaates
-- kuidas toetada ja jälgida tööd õpetaja või juhendaja vaates
-- kuidas kasutada GitHubi projektitahvlit, milestone’e ja tööetappide loogikat
-- kuidas kasutada GitHub Wikit lisadokumentatsiooni ja töökorralduse jaoks
+- kuidas alustada tööd malliga;
+- kuidas kasutada repositooriumi õpilase vaates;
+- kuidas toetada ja jälgida tööd juhendaja vaates;
+- kuidas kasutada GitHubi põhimõisteid ja tööriistu;
+- kuidas kasutada issue'sid töö planeerimiseks ja jälgimiseks.
 
 ## Juhendite failid
 
 - [`juhend-õpilasele.md`](./juhend-%C3%B5pilasele.md) – juhend õpilasele digiloovtöö repositooriumi kasutamiseks
-- [`juhend-juhendajale.md`](./juhend-juhendajale.md) – juhend õpetajale või juhendajale töö jälgimiseks ja juhendamiseks
-- [`kanban-ja-scrum.md`](./kanban-ja-scrum.md) – juhend GitHubi projektitahvli, milestone’ide ning Kanban- ja Scrum-tüüpi töökorralduse kasutamiseks
-- [`wiki-kasutamine.md`](./wiki-kasutamine.md) – juhend GitHub Wiki kasutamiseks
+- [`juhend-juhendajale.md`](./juhend-juhendajale.md) – juhend juhendajale töö käivitamiseks, suunamiseks ja jälgimiseks
+- [`mõisted-githubis.md`](./m%C3%B5isted-githubis.md) – GitHubi põhimõisted lihtsas vormis
+- [`juhend-issuede-kohta.md`](./juhend-issuede-kohta.md) – juhend issue'de kasutamiseks
+- [`Markdown-juhend.md`](./Markdown-juhend.md) – juhend Markdowni kasutamiseks
+- [`edasijõudnutele-wiki-ja-discussions.md`](./edasij%C3%B5udnutele-wiki-ja-discussions.md) – lisavõimalused neile, kes soovivad kasutada GitHub Wiki või Discussionsi
 
 ## Millest alustada
 
 - Kui oled õpilane, alusta failist [`juhend-õpilasele.md`](./juhend-%C3%B5pilasele.md).
-- Kui oled õpetaja või juhendaja, alusta failist [`juhend-juhendajale.md`](./juhend-juhendajale.md).
-- Kui soovid kasutada projektitahvlit või milestone’e, ava fail [`kanban-ja-scrum.md`](./kanban-ja-scrum.md).
-- Kui soovid kasutada GitHub Wikit juhendite, töökorralduse ja lisainfo jaoks, ava fail [`wiki-kasutamine.md`](./wiki-kasutamine.md).
+- Kui oled juhendaja, alusta failist [`juhend-juhendajale.md`](./juhend-juhendajale.md).
+- Kui tahad aru saada GitHubi mõistetest, ava fail [`mõisted-githubis.md`](./m%C3%B5isted-githubis.md).
+- Kui tahad õppida issue'sid kasutama, ava fail [`juhend-issuede-kohta.md`](./juhend-issuede-kohta.md).
+- Kui vajad abi vormindamisel, ava fail [`Markdown-juhend.md`](./Markdown-juhend.md).
 
-## GitHubi tööriistade kasutamine
+## Kuidas see juhendite kaust sobitub malliga?
 
-Digiloovtöö repositooriumis kasutatakse erinevaid GitHubi tööriistu eri eesmärkidel.
+Digiloovtöö malli põhifookus on kaustal [`WIKI/`](../WIKI/README.md), kus asuvad projekti peamised tööfailid.
 
-- **Issues** – konkreetsete ülesannete ja tegevuste jaoks
-- **Discussions** – küsimuste, abi ja ideede jaoks
-- **Wiki** – püsivate juhendite ja töökorralduse jaoks, kui Wiki on kasutusel
-- **docs/** – projekti käigus loodud materjalide hoidmiseks
+Juhendite kaust aitab neid faile kasutada ja mõista.
 
-## Soovitus
+Peamised töövahendid selles mallis on:
+- **WIKI kaust** – projekti tööfailide ja dokumentatsiooni jaoks
+- **Issues** – ülesannete, küsimuste, probleemide ja ideede jaoks
+- **Juhendid** – abimaterjalide jaoks
 
-Enne töö alustamist tasub:
-1. täita fail `projekti-kirjeldus.md`
-2. tutvuda kaustaga `projekti-analuus/`
-3. lugeda sobivat juhendit vastavalt oma rollile
-4. vajadusel luua projektitahvel või milestone’id
-5. vajadusel lülitada sisse Wiki
-6. kasutada juhendeid töö käigus abimaterjalina
+## Tähtis
+
+- Selle malli põhivool ei eelda GitHub Wiki kasutamist.
+- Selle malli põhivool ei eelda Discussionsi kasutamist.
+- Wiki ja Discussions on lisavõimalused edasijõudnutele.
+- Kõiki juhendeid ei pea korraga lugema.
+- Ava see juhend, mida sul parasjagu vaja on.
