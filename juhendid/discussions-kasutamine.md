@@ -1,7 +1,5 @@
 # Discussions kasutamise juhend
 
-**NB! See juhend on mõeldud edasijõudnud GitHubi kasutajatele. Soovitame hoida kinni [WIKI kausta](../WIKI/) struktuurist ja õpilase ning õpetaja juhendist.**
-
 ---
 
 GitHub Discussions on koht, kus saab pidada arutelusid, küsida abi ja jagada ideid.
