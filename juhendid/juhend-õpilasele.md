@@ -32,7 +32,7 @@ Hoia tööga seotud materjalid ühes kaustas: WIKI.
 [ajakava-üldine.md](../WIKI/ajakava-üldine.md)  
 [ajakava-sprindid.md](../WIKI/ajakava-sprindid.md)  
 [teooria.md](../WIKI/teooria.md)  
-[vahekokkuvõte.md](../WIKI/vahekokkuvõte.md)  
+[vahekokkuvõtted.md](../WIKI/vahekokkuvõtted.md)  
 [retrospektiivid.md](../WIKI/retrospektiivid.md)  
 [lõppkokkuvõte.md](../WIKI/lõppkokkuvõte.md)  
 
