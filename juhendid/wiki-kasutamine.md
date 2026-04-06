@@ -1,5 +1,7 @@
 # Wiki kasutamise juhend
 
+**NB! See juhend on mõeldud edasijõudnud GitHubi kasutajatele. Soovitame hoida kinni [WIKI kausta](../WIKI/) struktuurist ja õpilase ning õpetaja juhendist.**
+
 GitHub Wiki on koht, kuhu saab koondada digiloovtööga seotud püsiva info, juhendid ja töökorralduse. Wiki sobib hästi sellise sisu jaoks, mida on vaja töö käigus korduvalt vaadata ja täiendada.
 
 Digiloovtöö malli puhul võib Wikit kasutada eelkõige selleks, et hoida ühes kohas tööprotsessi selgitused, korduma kippuvad küsimused ja muud juhendmaterjalid.
