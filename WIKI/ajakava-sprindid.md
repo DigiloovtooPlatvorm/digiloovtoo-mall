@@ -1,7 +1,12 @@
 # Sprintide ajakava
 
-Jaga projekt väiksemateks tööperioodideks ehk sprintideks.  
-Iga sprint võiks keskenduda kindlale eesmärgile või tööetapile.
+Jaga projekt väiksemateks tööperioodideks ehk sprintideks. Iga sprint võiks keskenduda kindlale eesmärgile või tööetapile. Sprindid aitavad koondada tegevusi, mis tuleb teatud ajavahemikus ära teha. Nii saate tegeleda päriselt oluliste tegevustega ning jätta teised tegevused tahaplaanile. Näiteks võivad tööetapid olla: teema ja eesmärgi sõnastamine, digiloovtöö teema kinnitamine, testimine, kaitsmiseks ettevalmistumine jne.
+
+**Sprinte on digiloovtöö jooksul neli:**  
+1. Teooriaga tutvumine, läbitöötamine ning teoreetilise osa koostamine
+2. Persoonad, stsenaariumid ja nende kinnitamine, prototüübi loomine Lo-FI
+3. Hi-Fi prototüübi loomine, lahenduse katsetamine
+4. HI-FI valmis prototüüp, ettevalmistus kaitsmiseks, kokkuvõtete tegemine
 
 ## Kuidas seda faili kasutada?
 
@@ -9,8 +14,6 @@ Iga sprint võiks keskenduda kindlale eesmärgile või tööetapile.
 - kirjelda lühidalt, mis on selle sprindi eesmärk;
 - lisa peamised ülesanded;
 - sprindi lõpus kirjuta, mis sai tehtud ja mis jäi pooleli.
-
----
 
 ## Sprint 1
 
@@ -36,7 +39,6 @@ Mis sai selle sprindi jooksul valmis?
 ### Märkused
 Mis läks hästi? Mis vajab muutmist?
 
----
 
 ## Sprint 2
 
@@ -59,7 +61,7 @@ Mis läks hästi? Mis vajab muutmist?
 
 ### Märkused
 
----
+
 
 ## Sprint 3
 
@@ -82,8 +84,24 @@ Mis läks hästi? Mis vajab muutmist?
 
 ### Märkused
 
----
 
-## Vajadusel lisa uusi sprinte
+## Sprint 4
 
-Kopeeri üks sprindi plokk juurde ja nimeta see ümber.
+### Periood
+- Algus:
+- Lõpp:
+
+### Eesmärk
+
+### Peamised ülesanded
+- [ ]
+- [ ]
+- [ ]
+
+### Vastutajad
+- 
+- 
+
+### Tulemus
+
+### Märkused
