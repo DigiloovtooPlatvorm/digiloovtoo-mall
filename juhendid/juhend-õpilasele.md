@@ -221,8 +221,6 @@ Kanban tahvel ehk projects vaade aitab sul visuaalselt aru saada, milliseid üle
 
 ## 8. Jaga töö tsükliteks ehk sprintideks
 
-<img width="1066" height="266" alt="Screenshot 2026-04-04 183647" src="https://github.com/user-attachments/assets/43df2730-5d0b-4943-84e1-8c79bae86e5f" />
-
 Digiloovtöö tegemisel on kasulik jagada töö väiksemateks tsükliteks ehk sprintideks. Sprindid aitavad koondada tegevusi, mis tuleb teatud ajavahemikus ära teha. Nii saate tegeleda päriselt oluliste tegevustega ning jätta teised tegevused tahaplaanile. Näiteks võivad tööetapid olla: teema ja eesmärgi sõnastamine, digiloovtöö teema kinnitamine, testimine, kaitsmiseks ettevalmistumine jne.
 
 **Sprindid:**
@@ -241,6 +239,9 @@ Samm-sammuline juhis:
 1. Valige ülesanded
 1. Tõsta **töös** veergu
 1. Vali ülesanne (või ülesanded) millega tegeled ja määra need endale või kaaslastele
+
+
+<img width="1066" height="266" alt="Screenshot 2026-04-04 183647" src="https://github.com/user-attachments/assets/43df2730-5d0b-4943-84e1-8c79bae86e5f" />
 
 
 ## 9. Igapäevane töökorraldus
