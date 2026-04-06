@@ -131,9 +131,7 @@ Persoonade loomisel saate kasutada ka näiteks [Digiõpikus](https://web.htk.tlu
 
 **Persoonade näidised:**
 Õpilane Linda ja õpilane Markus. Need persoonad on loodud Canva keskkonnas malli põhjal.
-<img width="300" height="2000" alt="Persoona (1)" src="https://github.com/user-attachments/assets/aa74cf56-34fc-41de-a39e-62cfdbe87f5f" />
-
-<img width="300" height="2000" alt="Persoona (2)" src="https://github.com/user-attachments/assets/796a205b-6c51-4401-a587-153d9e654c7c" />
+<img width="500" height="2000" alt="Persoona (1)" src="https://github.com/user-attachments/assets/aa74cf56-34fc-41de-a39e-62cfdbe87f5f" /> <img width="500" height="2000" alt="Persoona (2)" src="https://github.com/user-attachments/assets/796a205b-6c51-4401-a587-153d9e654c7c" />
 
 
 ### Stsenaariumid
