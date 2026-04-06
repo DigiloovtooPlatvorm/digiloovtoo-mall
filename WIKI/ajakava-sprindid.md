@@ -8,7 +8,7 @@ Jaga projekt väiksemateks tööperioodideks ehk sprintideks. Iga sprint võiks 
 3. Hi-Fi prototüübi loomine, lahenduse katsetamine
 4. HI-FI valmis prototüüp, ettevalmistus kaitsmiseks, kokkuvõtete tegemine
 
-Loe rohkem sprintide kohta [Digiloovtöö õpikust](https://web.htk.tlu.ee/informaatika/digiloovtoo/chapter/sprindi-moiste-ja-selle-koht-digiloovtoos/)
+Loe rohkem sprintide kohta [Digiloovtöö õpikust](https://web.htk.tlu.ee/informaatika/digiloovtoo/chapter/sprindi-moiste-ja-selle-koht-digiloovtoos/)  
 Lisaks on sul alati võimalus toetuda [õpilase juhendile](../WIKI/juhend-õpilasele.md)
 
 ## Kuidas seda faili kasutada?
