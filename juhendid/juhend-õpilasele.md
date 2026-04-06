@@ -111,8 +111,7 @@ Persoonasid võiks olla vähemalt kaks. Peamine persoona on inimene, keda te nä
 - **Nimi:** Mari Kask  
 - **Vanus:** 14  
 
-- **Taust:**  
-8. klassi õpilane, elab väikelinnas. Kasutab igapäevaselt arvutit ja telefoni nii õppimiseks kui suhtlemiseks.
+- **Taust:** 8. klassi õpilane, elab väikelinnas. Kasutab igapäevaselt arvutit ja telefoni nii õppimiseks kui suhtlemiseks.
 
 - **Vajadused:**  
 Vajab selget ja lihtsat keskkonda, kus kõik õppematerjalid on ühes kohas. Vajab juhiseid, mis on kergesti arusaadavad.
