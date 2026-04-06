@@ -13,7 +13,6 @@ See fail aitab:
 - kirjuta lühidalt ja selgelt;
 - kui issue on GitHubis loodud, võid lisada selle juurde lingi või märkuse.
 
----
 
 ## Issue 1
 
