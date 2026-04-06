@@ -1,12 +1,16 @@
 # Stsenaariumid
 
-Kirjelda siin lühidalt, kuidas kasutaja sinu projekti kasutab.
+Pärast persoonade loomist tehakse kasutamise stsenaariumid.md ehk jutustused või lood, mis kirjeldavad kuidas kasutajad seda toodet või teenust kasutavad. Täpsemalt seda, kuidas kasutaja käitub, mõtleb ja tunneb. Stsenaariumis ei kirjeldata kasutajaliidese üksikasju või kujundust.
 
-## Mis on stsenaarium?
+**Stsenaarium peaks vastama küsimustele:**
 
-Stsenaarium on lühike näide sellest, mida kasutaja tahab teha ja kuidas ta sinu lahendust kasutab.
-
----
+- kes seda toodet või teenust kasutab
+- mida ta teha tahab
+- mis on selle tegevuse sammud
+- mis olukorras kasutaja on
+- miks see on talle oluline
+- milline tulemus peaks sündima
+- mis juhtub lõpuks
 
 ## Stsenaarium 1
 
