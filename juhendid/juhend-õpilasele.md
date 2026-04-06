@@ -17,6 +17,10 @@ Selles õppeaines kasutatakse digiloovtöö korraldamiseks GitHubi. GitHubis saa
 **Assign:** tegevus, millega määratakse ülesanne kellegi teha  
 **Assignee:** inimene, kellele ülesanne on määratud  
 
+## Töö struktuur 
+
+<img width="1280" height="209" alt="Screenshot 2026-04-04 183014" src="https://github.com/user-attachments/assets/11cf62c6-956c-46ea-9c95-a889fa94c6b9" />
+
 ## 1. Dokumenteerige oma tööd WIKIs
 
 Hoia tööga seotud materjalid ühes kaustas: WIKI.  
@@ -216,6 +220,8 @@ GitHub Projects aitab jälgida, mis on:
 Kanban tahvel ehk projects vaade aitab sul visuaalselt aru saada, milliseid ülesandeid peab tegema ja kes. Lisaks annab see juhendajale ülevaate, milliseid ülesandeid peab ta tagasisidestama ehk teile kommenteerima. Kui ülesanne on tehtud ja tagasisidestatud, liigutage see edasi **valmis** kategooriasse. Projekti lõpuks võiks kõik ülesanded olla **valmis** kategoorias.
 
 ## 8. Jaga töö tsükliteks ehk sprintideks
+
+<img width="1066" height="266" alt="Screenshot 2026-04-04 183647" src="https://github.com/user-attachments/assets/43df2730-5d0b-4943-84e1-8c79bae86e5f" />
 
 Digiloovtöö tegemisel on kasulik jagada töö väiksemateks tsükliteks ehk sprintideks. Sprindid aitavad koondada tegevusi, mis tuleb teatud ajavahemikus ära teha. Nii saate tegeleda päriselt oluliste tegevustega ning jätta teised tegevused tahaplaanile. Näiteks võivad tööetapid olla: teema ja eesmärgi sõnastamine, digiloovtöö teema kinnitamine, testimine, kaitsmiseks ettevalmistumine jne.
 
