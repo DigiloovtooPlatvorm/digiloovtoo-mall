@@ -8,7 +8,7 @@ Persoon on näidiskasuta, kes aitab mõelda, kelle jaoks te oma projekti teete.
 
 ---
 
-## Persoon 1
+## Persoona 1
 
 ### Nimi
 Mari
