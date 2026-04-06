@@ -42,7 +42,6 @@ Millises sprindis seda tehakse?
 
 ### Märkused
 
----
 
 ## Issue 2
 
@@ -69,7 +68,6 @@ Millises sprindis seda tehakse?
 
 ### Märkused
 
----
 
 ## Issue 3
 
@@ -96,7 +94,6 @@ Millises sprindis seda tehakse?
 
 ### Märkused
 
----
 
 ## Vajadusel lisa uusi issue'sid
 
