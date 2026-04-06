@@ -1,58 +1,21 @@
 # Teooria
 
-Kirjuta siia, mida oli vaja enne projekti tegemist uurida ja mõista.
+Teooria dokumendis saate kirjeldada seda, mida olete teema kohta uurinud. See näitab, et sa mõistad antud teemat ning oskad seda ka teoreetiliselt selgitada.  
+**Teooria alla võivad kuuluda:**
+- Mõisted ja definitsioonid
+- Taust ja areng (nt kuidas see valdkond on arenenud, kas on uusi trende)
+- Tehnoloogiate selgitus (nt milliseid programme kasutatakse ning kuidas need töötavad)
+- Seos teie tööga (kuidas seostub teooria teie praktilise tööga)
+- Allikad
 
-## Meie teema
+Vajadusel kustutage või lisage juurde vajalikke peatükke.
 
-Mis on teie projekti teema?
+## Mõisted
 
-## Mida oli vaja enne teada saada?
+## Taust ja areng
 
-Kirjuta siia, mida te pidite enne töö alustamist uurima.
+## Tehnoloogiate selgitus
 
-- 
-- 
-- 
-
-## Olulised mõisted
-
-### Mõiste 1
-Selgitus
-
-### Mõiste 2
-Selgitus
-
-### Mõiste 3
-Selgitus
-
-## Näited ja eeskujud
-
-Milliseid sarnaseid lahendusi, näiteid või ideid te vaatasite?
-
-- 
-- 
-- 
+## Seos teie tööga
 
 ## Allikad
-
-Milliseid allikaid te kasutasite?
-
-- 
-- 
-- 
-
-## Mida me õppisime?
-
-Kirjuta lühidalt, mida te sellest uurimisest teada saite.
-
-- 
-- 
-- 
-
-## Kuidas see aitas meie projekti?
-
-Selgita, kuidas uuritud info mõjutas teie ideid, valikuid või lahendust.
-
-- 
-- 
-- 
