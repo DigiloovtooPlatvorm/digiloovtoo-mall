@@ -11,19 +11,22 @@ Persoon on näidiskasuta, kes aitab mõelda, kelle jaoks te oma projekti teete.
 ## Persoona 1
 
 ### Nimi
-Mari
 
-### Kes ta on?
-8. klassi õpilane, kes teeb digiloovtööd koos oma grupiga.
+### Taust
 
-### Mida ta tahab teha?
+### Vajadused
 Ta tahab oma grupi ülesandeid lihtsasti jälgida, näha, mis on juba tehtud, ja aru saada, mida ta peab järgmisena tegema.
 
-### Mida ta vajab?
+### Ootused
 Ta vajab selget tööjaotust, lihtsaid juhiseid ja ühte kohta, kus kõik projektiga seotud failid ja ülesanded on olemas.
 
-### Mis võib tema jaoks keeruline olla?
+### Probleemid
 Tal võib olla raske aru saada GitHubi mõistetest ja sellest, kuidas suurem töö väiksemateks ülesanneteks jagada.
+
+### Motivatsioon
+
+### Tsitaat
+
 
 ---
 
