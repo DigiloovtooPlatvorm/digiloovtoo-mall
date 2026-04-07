@@ -93,7 +93,9 @@ Oluline on, et töö edenemine oleks nähtav, mitte ainult lõpptulemus.
 - kuidas dokumenteeritakse analüüsi tulemused
 - kuidas jaotatakse töö etappideks
 - kus esitatakse küsimusi ja peetakse arutelusid
-- kas ja kuidas kasutatakse Wikit, projektitahvlit ja milestone’e  
+- kas ja kuidas kasutatakse Wikit, projektitahvlit ja milestone’e
+
+Mallis on kasutusel WIKI kaust, kuhu on koondatud kõik vajaminevad põhjad [WIKI](../WIKI/)
 
 10. Suuna õpilased lugema digiloovtöö mallis juhendit õpilastele. Pärast lugemist tuleb õpilastel avada fail projekti-kirjeldus.md. See on õpilaste digiloovtöö tiitelleht ja esimesed leheküljed.
 
@@ -146,6 +148,7 @@ Digiloovtöö võib jaotada selgelt nähtavateks tööetappideks (tsüklid ehk s
 Selleks, et asuda sprintide ajakava koostamise ning planeerimise juurde, on oluline üle kontrollida, et oleksid tehtud järgnevad tegevused: ideede kogumine (brainstorming), ideede läbiarutamine, sobivate ideede valimine, rühmade moodustamine, rollide jagamine, vastutuse jaotamine, teema valimine ja kinnitamine ning avalduse esitamine, reaalmõtlemise liivakasti harjutuse läbimine ning GitHubi keskkonnaga tutvumine.  
 
 ### Sprindid
+Faili sprintide jaoks leiab [ajakava-sprindid.md](..WIKI/ajakava-sprindid.md)  
 - Teooriaga tutvumine, läbitöötamine ning teoreetilise osa koostamine
 - Persoonade ja stsenaariumite loomine, nende kinnitamine ning Lo-FI prototüübi loomine
 - Hi-Fi prototüübi loomine ja testimine
@@ -179,6 +182,8 @@ Selleks, et kõik saaksid kasutajast ühtemoodi aru, luuakse persoonad. Persoona
 
 Persoonasid võiks olla vähemalt kaks. Peamine persoona on inimene, keda te näete peamise kasutajana. Temale on toode või teenus disainitud. Teine persoona võiks olla inimene, kes saab ka sellest tootest või teenusest kasu aga ei ole otsene sihtgrupp.  
 
+Persoonade faili leiab [persoonad.md](../WIKI/persoonad.md)
+
 **Persoona juures tuleb kirjeldada:**
 - nime
 - vanust
@@ -204,6 +209,8 @@ Persoonade loomisel saate kasutada ka näiteks [Digiõpikus](https://web.htk.tlu
 ### Stsenaariumid
 
 Pärast persoonade loomist tehakse kasutamise stsenaariumid ehk jutustused või lood, mis kirjeldavad kuidas kasutajad seda toodet või teenust kasutavad. Täpsemalt seda, kuidas kasutaja käitub, mõtleb ja tunneb. Stsenaariumis ei kirjeldata kasutajaliidese üksikasju või kujundust.  
+
+Stsenaariumite dokumendi leiab [stsenaariumid.md](../WIKI/stsenaariumid.md)
 
 **Stsenaarium peaks vastama küsimustele:**
 - kes seda toodet või teenust kasutab
@@ -265,7 +272,8 @@ Tagasisidet võib anda:
 - Discussions vaates
 - kommentaaridena kokkulepitud kohtades
 
-Selge ja konkreetne tagasiside aitab õpilasel paremini mõista, mida edasi teha ja kuidas oma tööd parandada.
+Selge ja konkreetne tagasiside aitab õpilasel paremini mõista, mida edasi teha ja kuidas oma tööd parandada.  
+
 ## 7. Õpetaja tegevused digiloovtöö alguses, keskel ja lõpus
 
 **Töö alguses kontrolli:**
