@@ -19,7 +19,7 @@ Kokku kuni kuus pealkirja formaati (st kuni kuus # märki).
 
 **Näide 2. Markdown formaadis teksti kirjutamine.**
 
-<img width="855" height="141" alt="Screenshot 2026-04-04 123307" src="https://github.com/user-attachments/assets/437c4786-7e2d-4969-9b19-15c531cc2af8" />  
+> ![Projekti kirjeldus](pildi_link.png) <img width="855" height="141" alt="Screenshot 2026-04-04 123307" src="https://github.com/user-attachments/assets/437c4786-7e2d-4969-9b19-15c531cc2af8" />  
 
 **Näide 3. Lugejale teksti kuvamine.**
 
