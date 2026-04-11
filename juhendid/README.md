@@ -17,7 +17,7 @@ Juhendid aitavad aru saada:
 - [`mõisted-githubis.md`](./m%C3%B5isted-githubis.md) – GitHubi põhimõisted lihtsas vormis
 - [`juhend-issuede-kohta.md`](./juhend-issuede-kohta.md) – juhend issue'de kasutamiseks
 - [`Markdown-juhend.md`](./Markdown-juhend.md) – juhend Markdowni kasutamiseks
-- [`kanban-ja-scrum.md`](./kanban-ja-scrum.md) – juhend projektitahvli, sprintide ja tööetappide loogika kasutamiseks
+- [`kanban-ja-scrum.md`](./kanban.md) – juhend projektitahvli, sprintide ja tööetappide loogika kasutamiseks
 - [`edasijõudnutele-wiki-ja-discussions.md`](./edasij%C3%B5udnutele-wiki-ja-discussions.md) – lisavõimalused neile, kes soovivad kasutada GitHub Wiki või Discussionsi
 
 ## Millest alustada
@@ -38,7 +38,7 @@ Juhendite kaust aitab neid faile kasutada ja mõista.
 Peamised töövahendid selles mallis on:
 - **WIKI kaust** – projekti tööfailide ja dokumentatsiooni jaoks
 - **Issues** – ülesannete, küsimuste, probleemide ja ideede jaoks
-- **Kanban / Scrum** – töö järje ja etappide jälgimiseks
+- **Kanban** – töö järje ja etappide jälgimiseks
 - **Juhendid** – abimaterjalide jaoks
 
 ## Tähtis
