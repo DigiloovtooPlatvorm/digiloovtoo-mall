@@ -24,19 +24,7 @@ See aitab näha:
 - millega parasjagu tegeletakse
 - mis on juba valmis
 
-## 2. Mis on Scrum GitHubis
-
-Scrumi loogikat saab GitHubis kasutada nii, et töö jagatakse väiksemateks etappideks ehk sprintideks.
-
-GitHubis saab sprintide või tööetappide jaoks kasutada:
-- **Tähtajad (Milestones)**
-- või kokkuleppelist jaotust Projects vaates
-
-Näiteks võib sprint olla:
-- Sprint 1 – analüüs
-- Sprint 2 – kavandamine
-- Sprint 3 – teostus
-- Sprint 4 – testimine ja täiendamine
+GitHubi Kanban vaates saate planeerida ka järgmise sprindi ehk tööetapi ülesanded. Selle jaoks tõstke **Plaanis** tulbast ülesanded **Töös** tulpa. Nii on teil sprindi ülesanded kogu aeg silme ees.
 
 ## 3. Kuidas luua ülesandeid
 
@@ -71,11 +59,6 @@ Kanban-vaate jaoks sobib GitHubis kõige paremini **Board** tüüpi projekt. Pro
 5. Pane projektile nimi.
 6. Loo vajalikud veerud või kasuta olemasolevat jaotust.
 7. Alusta tahvli täitmist.
-
-Soovituslik veergude jaotus:
-- **Todo**
-- **In Progress**
-- **Done**
 
 ### 4.2 Projekti loomine valmis malli abil
 
