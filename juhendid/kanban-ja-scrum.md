@@ -13,10 +13,11 @@ Kanban on lihtne töökorralduse viis, kus ülesanded liiguvad erinevate etappid
 
 GitHubis saab selleks kasutada **Projects** vaadet.
 
-Lihtne töövoog võib olla näiteks:
-- **Todo**
-- **In Progress**
-- **Done**
+Lihtne töövoog on:
+- **Plaanis**
+- **Töös**
+- **Tagasisidestamisel**
+- **Valmis**
 
 See aitab näha:
 - mida on vaja teha
