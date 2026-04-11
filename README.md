@@ -28,7 +28,7 @@ Peamised osad on:
 
 ## Alusta siit
 
-1. Vajuta **Use this template**
+1. Vajuta **Use this template** (Kasuta seda malli)
 2. Loo selle põhjal uus repositoorium
 3. Ava fail [`WIKI/projekti-kirjeldus.md`](./WIKI/projekti-kirjeldus.md)
 4. Täida projekti põhiandmed
@@ -88,8 +88,8 @@ Kaust [`juhendid/`](./juhendid/README.md) aitab kasutada malli erinevates rollid
 Selles mallis kasutatakse GitHubi issue'sid tööülesannete, küsimuste, probleemide ja ideede kirjapanekuks.
 
 Soovitus:
-- alusta tavalistest ehk põhi-issue'dest;
-- jaga suur töö vajadusel mitmeks eraldi issue'ks;
+- alusta tavalistest ehk põhi-issue'dest (peamised ülesanded);
+- jaga suur töö vajadusel mitmeks eraldi issue'ks (ülesandeks);
 - kasuta faili [`WIKI/planeeritavad-issued.md`](./WIKI/planeeritavad-issued.md), et ülesanded enne läbi mõelda;
 - loe juhendit [`juhendid/juhend-issuede-kohta.md`](./juhendid/juhend-issuede-kohta.md)
 
@@ -98,9 +98,9 @@ Soovitus:
 Mõned GitHubi töövahendid ei pruugi olla uues repositooriumis kohe kasutusvalmis ja need tuleb vajadusel üle vaadata.
 
 Näiteks:
-- **Projects** – projektitahvel tuleb vajadusel eraldi luua või seadistada
-- **Discussions** – võib kasutada küsimuste ja ideede jaoks
-- **GitHub Wiki** – ei ole selle malli põhivoo osa, vaid lisavõimalus edasijõudnutele
+- **Projects** (projektid) – projektitahvel tuleb vajadusel eraldi luua või seadistada
+- **Discussions** (vestlused) – võib kasutada küsimuste ja ideede jaoks
+- **GitHub Wiki**  – ei ole selle malli põhivoo osa, vaid lisavõimalus edasijõudnutele
 
 ## Automaatne algseadistus
 
