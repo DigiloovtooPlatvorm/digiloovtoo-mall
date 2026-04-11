@@ -5,14 +5,14 @@ Käesolev juhend on mõeldud õpetajale digiloovtöö protsessi toetamiseks GitH
 ## Meeldetuletuseks mõisted:
 Digiloovtöö repositooriumis kasutatakse erinevaid GitHubi tööriistu eri eesmärkidel. Õpetajal tasub jälgida, et õpilased kasutaksid neid vaateid eesmärgipäraselt ja järjepidevalt.  
 
-- Github: pesa, kus saab hoida oma projektifaile ja teha rühmaga koostööd.  
-- Repositoorium: kaust, mille all on teie failid ja juhendid koos.  
-- Kanban: tahvel, kus näed ülesandeid veergudes (teha vaja, tegemisel, ülevaatamisel, tehtud). **NB! Leiad selle *projects* lehelt.**  
-- Action: automaatne tegevus, mis käivitub ise. **NB! Õpetaja teeb selle ise.**  
-- Wiki: koht, kus hoitakse projekti selgitusi ja teooriat. Nagu dokumendis erinevad lehed.  
-- Issue: ülesanne või probleem.  
-- Subissue: väiksem ülesanne või probleem (issue → subissue)  
-- Markdown: lihtne viis teksti vormistamiseks ilma koodita. **NB! Vaata Markdown juhendit!**  
+- **GitHub:** pesa, kus saab hoida oma projektifaile ja teha rühmaga koostööd.  
+- **Repositoorium:** kaust, mille all on teie failid ja juhendid koos.  
+- **Kanban:** tahvel, kus näed ülesandeid veergudes (teha vaja, tegemisel, ülevaatamisel, tehtud). **NB! Leiad selle *projects* lehelt.**  
+- **Action:** automaatne tegevus, mis käivitub ise. **NB! Õpetaja teeb selle ise.**  
+- **Wiki:** koht, kus hoitakse projekti selgitusi ja teooriat. Nagu dokumendis erinevad lehed.  
+- **Issue:** ülesanne või probleem.  
+- **Subissue:** väiksem ülesanne või probleem (issue → subissue)  
+- **Markdown:** lihtne viis teksti vormistamiseks ilma koodita. **NB! Vaata Markdown juhendit!**  
 
 ## 1. Ettevalmistus ja seadistamine  
 
@@ -23,7 +23,7 @@ GitHubi kasutamisel on soovitatav, et töörepositooriumi loob õpetaja, mitte �
 - õpetaja saab määrata õpilastele vajaduspõhised õigused (nt lugemine, muutmine);
 - väheneb risk, et ligipääsud või seaded on valed.
 
-Oluline on arvestada, et kõik GitHubi töövahendid ei tule malli kasutamisel uude repositooriumisse automaatselt kaasa. Näiteks Wiki, Projects ja milestone’id tuleb vajadusel uues repositooriumis eraldi luua või seadistada.  
+Oluline on arvestada, et kõik GitHubi töövahendid ei tule malli kasutamisel uude repositooriumisse automaatselt kaasa. Näiteks **Wiki, **Projects** ja **milestone’id** tuleb vajadusel uues repositooriumis eraldi luua või seadistada.  
 
 ### Kasutajate vajadused ja analüüs  
 
@@ -35,18 +35,17 @@ Enne praktilise lahenduse loomist peaks õpetaja jälgima, kas õpilased on läb
 
 ## 2. Soovituslik töökorraldus  
 
-1. Veendu, et sul on olemas GitHubi konto ning ligipääs organisatsioonile.
-   
-3. Palu õpilastel luua GitHubi kontod kooli e-maili aadressidega.
-  
-5. Loo igale rühmale repositoorium kasutades selleks olemasolevat digiloovtöö malli.
+1. Veendu, et sul on olemas GitHubi konto ning ligipääs organisatsioonile.  
+2. Palu õpilastel luua GitHubi kontod kooli e-maili aadressidega.
+3. Loo igale rühmale repositoorium kasutades selleks olemasolevat digiloovtöö malli.
   - Ava digiloovtöö mallrepositoorium.
   - Vajuta **Use this template**.
   - Loo selle põhjal uus repositoorium.
   - Pane repositooriumile nimi.
   - nähtavus vastavalt kokkuleppele.
 
-4. Automaatne algseadistus GitHub Actionsi abil- Digiloovtöö mallis on võimalik kasutada GitHub Actionsi töövoogu, mis loob uues repositooriumis vaikimisi vajalikud alguse issue'd.
+4. Automaatne algseadistus GitHub Actionsi abil
+Digiloovtöö mallis on võimalik kasutada GitHub Actionsi töövoogu, mis loob uues repositooriumis vaikimisi vajalikud alguse issue'd.
 See aitab alustada projekti ühtse tööstruktuuri järgi ja vähendab käsitsi seadistamise vajadust. Töövoog loob alguseks näiteks projekti kirjelduse täitmise ja projektitahvli seadistamisega seotud ülesanded.
 
 5. Kuidas seda kasutada
