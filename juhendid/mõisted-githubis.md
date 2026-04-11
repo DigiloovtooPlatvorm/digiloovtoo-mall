@@ -114,6 +114,14 @@ Seda kasutatakse siis, kui tahetakse teha muudatusi nii, et põhitöö jääks s
 Main branch on repositooriumi peamine haru.  
 Seda võib mõelda kui projekti põhiversioonina.
 
+## Assign
+
+Tegevus, millega määratakse ülesanne kellegi teha.
+
+## Assignee
+
+Inimene, kellele on ülesanded määratud.
+
 ## Markdown
 
 Markdown on lihtne viis teksti vormindamiseks.
@@ -153,6 +161,9 @@ Sprint on lühem tööperiood, mille jooksul keskendutakse kindlatele ülesannet
 **Vaata ka:**
 - [Ajakava (sprindid)](../WIKI/ajakava-sprindid.md)
 - [Kanban ja Scrum](./kanban-ja-scrum.md)
+
+## Retrospektiiv
+Koosolek, mille kohta koostatakse memo. Koosolekul räägitakse nii omavahelisest koostööst, tegevustest kui ka edasisest plaanist.
 
 ## Taiga ja GitHubi lihtsad vasted
 
