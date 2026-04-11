@@ -133,6 +133,25 @@ Digiloovtöö repositooriumis kasutatakse erinevaid GitHubi tööriistu eri eesm
 
 Enne uue dokumendi (.md faili) loomist vaata üle juhendid ja olemasolevad materjalid. 
 
+**GitHubis saad dokumendi luua sedasi:**
+- Add file
+- Create new file
+- Nimeta oma fail: nt LoFi-prototüüp
+- Lisa lõppu laiend .md
+- Tühiku asemel kasuta sidekriipsu
+
+**Näiteks: WIKI / LoFi-prototüüp.md**
+
+**GitHubis saab kaustasid luua sedasi:**
+- Add file
+- Create new file
+- *Name your file* kohale kirjuta esmalt kausta nimi, nt prototüüp
+- Seejärel lisa kaldkriips /
+- Lisa dokumendi nimi
+- Dokumendi lõppu lisa laiendus .md
+
+**Näiteks: WIKI / Prototüüp / Lofi-prototüüp.md**
+
 
 ## 5. Digiloovtöö õpik
 Githubis digiloovtöö tegemisel on soovitatav tutvuda ka Digiloovtöö õpikuga, kus on selgitatud digiloovtöö peamised põhimõtted ja ülesehitus. Seal kirjas olev teoreetiline osa on toetatud erinevate digiloovtööde näidetega, mis aitavad paremini mõista, milline peaks üks terviklik töö välja nägema.
