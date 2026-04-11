@@ -17,7 +17,7 @@ Selles õppeaines kasutatakse digiloovtöö korraldamiseks GitHubi. GitHubis saa
 **Assign:** tegevus, millega määratakse ülesanne kellegi teha  
 **Assignee:** inimene, kellele ülesanne on määratud  
 
-Vaata ka [mõisted-githubis.md](../juhendid/juhendid/mõisted-githubis.md)
+Vaata ka [mõisted-githubis.md](../juhendid/mõisted-githubis.md)
 
 ## Töö struktuur 
 
