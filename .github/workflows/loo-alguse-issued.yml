@@ -73,3 +73,63 @@ jobs:
           Kui kasutad organisatsiooni valmis malli, ei ole vaja tahvli struktuuri eraldi seadistada. Kui lood uue tahvli ise, siis veendu, et selles oleksid vähemalt veerud „Plaanis”, „Töös”, „Tagasisidestamisel” ja „Valmis”.
           EOF
           )"
+
+          gh issue create --repo "$REPO" \
+            --title "Projektirühmade moodustamine" \
+            --label "arendus" \
+            --body "$(cat <<'EOF'
+          )"
+
+           gh issue create --repo "$REPO" \
+            --title "Rollide jagamine meeskonnas" \
+            --label "arendus" \
+            --body "$(cat <<'EOF'
+          )"
+
+           gh issue create --repo "$REPO" \
+            --title "Projektiidee sõnastamine" \
+            --label "arendus" \
+            --body "$(cat <<'EOF'
+          )"
+
+           gh issue create --repo "$REPO" \
+            --title "Persoonade loomine" \
+            --label "arendus" \
+            --body "$(cat <<'EOF'
+          )"
+
+           gh issue create --repo "$REPO" \
+            --title "Stsenaariumite loomine" \
+            --label "arendus" \
+            --body "$(cat <<'EOF'
+          )"
+
+           gh issue create --repo "$REPO" \
+            --title "Paberprototüübi disainimine" \
+            --label "arendus" \
+            --body "$(cat <<'EOF'
+          )"
+
+           gh issue create --repo "$REPO" \
+            --title "Vahendite valimine ja katsetamine" \
+            --label "arendus" \
+            --body "$(cat <<'EOF'
+          )"
+
+           gh issue create --repo "$REPO" \
+            --title "Esmase prototüübi avaldamine ja testimine" \
+            --label "arendus" \
+            --body "$(cat <<'EOF'
+          )"
+
+           gh issue create --repo "$REPO" \
+            --title "Projekti silumine ja valmis lahenduse esitamine" \
+            --label "arendus" \
+            --body "$(cat <<'EOF'
+          )"
+
+           gh issue create --repo "$REPO" \
+            --title "Projekti esitlemine" \
+            --label "arendus" \
+            --body "$(cat <<'EOF'
+          )"
