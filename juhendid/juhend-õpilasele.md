@@ -42,6 +42,25 @@ Oluline on, et kõik failid oleksid ühes kohas ja kogu teie tööprotsess dokum
 
 NB! GitHubis ei ole sellist nuppu nagu **Save**. Kõik tegevused salvestatakse **Commit’iga**. See tähendabki salvesta ehk edasta ehk anna teada, et ülesanne on tehtud. Seda, kes on commiti teinud näete nii ise, kuid näeb ka õpetaja.
 
+**GitHubis saad dokumendi luua sedasi:**
+- Add file
+- Create new file
+- Nimeta oma fail: nt LoFi-prototüüp
+- Lisa lõppu laiend .md
+- Tühiku asemel kasuta sidekriipsu
+
+**Näiteks: WIKI / LoFi-prototüüp.md**
+
+**GitHubis saab kaustasid luua sedasi:**
+- Add file
+- Create new file
+- *Name your file* kohale kirjuta esmalt kausta nimi, nt prototüüp
+- Seejärel lisa kaldkriips /
+- Lisa dokumendi nimi
+- Dokumendi lõppu lisa laiendus .md
+
+**Näiteks: WIKI / Prototüüp / Lofi-prototüüp.md**
+
 ## 2. Kasuta eri GitHubi vaateid õigel eesmärgil
 
 Digiloovtöö repositooriumis kasutatakse erinevaid GitHubi tööriistu eri eesmärkidel.
