@@ -16,60 +16,292 @@ jobs:
           REPO: ${{ github.repository }}
         run: |
           gh issue create --repo "$REPO" \
-            --title "Projekti kirjelduse täitmine" \
+            --title "Projektirühmade moodustamine" \
             --label "analüüs" \
             --body "$(cat <<'EOF'
           ## Kirjeldus
 
-          Täida faili `projekti-kirjeldus.md` põhiandmed, et projekti eesmärk, sisu ja oodatav tulemus oleksid selgelt sõnastatud.
+          Moodustage 2–4-liikmeline projektirühm, leppige kokku koostöö põhimõtted ning dokumenteerige rühma info Wiki lehel.
 
           ## Miks see on vajalik
 
-          Projekti kirjeldus annab ülevaate töö eesmärgist, sihtrühmast ja peamistest tööetappidest ning aitab hoida projekti fookust.
+          Projektirühma moodustamine on vajalik, et digiloovtööd saaks teha koostöös ning jagada vastutust. Hästi moodustatud rühm toetab sujuvat tööprotsessi ja aitab igal liikmel panustada vastavalt oma tugevustele. See toetab sujuvat tööprotsessi ning loob aluse meeskonnatööks kogu projekti vältel.
 
           ## Tegevused
 
-          - täida töö pealkiri
-          - täida autor(id) ja juhendaja
-          - sõnasta eesmärk ja lühikirjeldus
-          - kirjelda sihtrühm ja oodatav tulemus
-          - lisa tähtsamad tegevused või tööetapid
+          - moodustage 2–4-liikmeline projektirühm
+          - arutage rühmas läbi iga liikme tugevused ja huvid
+          - leppige kokku, kuidas omavahel suhtlete ja koostööd teete
+          - dokumenteerige rühma info Wiki lehele
 
           ## Valmiskriteerium
 
-          Ülesanne on valmis siis, kui fail `projekti-kirjeldus.md` on sisuliselt täidetud.
+          Ülesanne on valmis siis, kui projektirühm on moodustatud, rühmas on kokku lepitud koostöö põhimõtted ja rühma info on Wiki lehel kirjeldatud.
 
           ## Lisainfo
 
-          See on üks esimestest ülesannetest, sest enne töö edasiarendamist peab projekti põhiloogika olema selgelt kirjeldatud.
+          Rühma moodustamisel on oluline, et kõik liikmed oleksid valmis panustama ja võtma vastutust. Vajadusel võib õpetaja aidata rühmade tasakaalustamisel.
           EOF
           )"
 
           gh issue create --repo "$REPO" \
-            --title "Projektitahvli seadistamine" \
+            --title "Rollide jagamine meeskonnas" \
+            --label "analüüs" \
+            --body "$(cat <<'EOF'
+          ## Kirjeldus
+
+          Leppige kokku meeskonnaliikmete rollid ja vastutusvaldkonnad ning dokumenteerige need Wiki lehel.
+
+          ## Miks see on vajalik
+
+          Rollide jagamine on vajalik, et igal rühmaliikmel oleks selge vastutus ja ülesanne. See aitab vältida segadust ning töö dubleerimist. Selge rollijaotus toetab sujuvat koostööd kogu projekti vältel.
+
+          ## Tegevused
+
+          - leppige kokku rollid (nt projektijuht, disainer, arendaja, sisulooja)
+          - arutage, milline roll sobib kellelegi kõige paremini
+          - kirjeldage iga liikme vastutusvaldkonnad
+          - dokumenteerige rollid ja vastutus Wiki lehele
+
+          ## Valmiskriteerium
+
+          Ülesanne on valmis siis, kui rollid ja vastutusvaldkonnad on kokku lepitud ning Wiki lehel kirjeldatud.
+
+          ## Lisainfo
+
+          Rollid võivad projekti käigus täpsustuda vastavalt töö edenemisele. Oluline on, et vastutus oleks igal hetkel selgelt jaotatud.
+          EOF
+          )"
+
+          gh issue create --repo "$REPO" \
+            --title "Projektiidee sõnastamine" \
+            --label "analüüs" \
+            --body "$(cat <<'EOF'
+          ## Kirjeldus
+
+          Sõnastage projektiidee, probleem, eesmärk ja lühikirjeldus ning dokumenteerige need Wiki lehel.
+
+          ## Miks see on vajalik
+
+          Projektiidee sõnastamine on vajalik, et oleks selge, millist probleemi lahendatakse ja milline on projekti eesmärk. See annab tööle konkreetse suuna ning aitab teha teadlikke valikuid edasises arenduses. Hästi sõnastatud idee aitab vältida ebaselgust ja hoiab meeskonna fookuse paigas.
+
+          ## Tegevused
+
+          - arutage erinevaid ideid
+          - valige üks sobiv projektiidee
+          - sõnastage probleem ja eesmärk
+          - kirjutage lühike projekti kirjeldus
+          - dokumenteerige projektiidee Wiki lehele
+
+          ## Valmiskriteerium
+
+          Ülesanne on valmis siis, kui projektiidee on valitud, probleem ja eesmärk on sõnastatud ning projekti kirjeldus on Wiki lehel olemas.
+
+          ## Lisainfo
+
+          Projektiidee peaks olema realistlik ja teostatav ning arvestama olemasolevaid oskusi ja ajaraami. Vajadusel võib ideed projekti käigus täpsustada.
+          EOF
+          )"
+
+          gh issue create --repo "$REPO" \
+            --title "Persoonade koostamine" \
+            --label "analüüs" \
+            --body "$(cat <<'EOF'
+          ## Kirjeldus
+
+          Looge vähemalt 1–2 persoonat, kirjeldage nende vajadused ja probleemid ning dokumenteerige need Wiki lehel.
+
+          ## Miks see on vajalik
+
+          Persoonade koostamine on vajalik, et mõista, kellele lahendust luuakse ja millised on kasutaja vajadused. See aitab suunata arendust kasutajakesksemaks ning teha teadlikumaid disainiotsuseid. Hästi kirjeldatud persoonad aitavad hoida fookust sihtrühmal kogu projekti vältel.
+
+          ## Tegevused
+
+          - looge vähemalt 1–2 persoonat
+          - kirjeldage nime, vanust, huvisid ja vajadusi
+          - tooge välja probleemid, mida lahendus aitab lahendada
+          - dokumenteerige persoonad Wiki lehele
+
+          ## Valmiskriteerium
+
+          Ülesanne on valmis siis, kui persoonad on loodud, nende kirjeldused on olemas ning vajadused ja probleemid on Wiki lehel välja toodud.
+
+          ## Lisainfo
+
+          Persoonad peaksid olema realistlikud ja seostuma valitud sihtrühmaga. Vajadusel võib persoonasid projekti käigus täiendada või täpsustada.
+          EOF
+          )"
+
+          gh issue create --repo "$REPO" \
+            --title "Stsenaariumite koostamine" \
+            --label "analüüs" \
+            --body "$(cat <<'EOF'
+          ## Kirjeldus
+
+          Koostage kasutusstsenaarium, seoge see persoonaga ning dokumenteerige see Wiki lehel.
+
+          ## Miks see on vajalik
+
+          Stsenaariumite koostamine on vajalik, et läbi mõelda, kuidas kasutaja lahendust tegelikult kasutab. See aitab paremini mõista kasutusolukordi ning planeerida lahenduse loogikat ja funktsionaalsust. Hästi koostatud stsenaariumid aitavad vältida arenduses tekkivaid ebakõlasid.
+
+          ## Tegevused
+
+          - kirjutage stsenaarium, kuidas kasutaja lahendust kasutab
+          - seoge stsenaarium persoonaga
+          - kirjeldage samm-sammult tegevused
+          - dokumenteerige stsenaarium Wiki lehele
+
+          ## Valmiskriteerium
+
+          Ülesanne on valmis siis, kui stsenaarium on koostatud, seotud persoonaga ja Wiki lehel kirjeldatud.
+
+          ## Lisainfo
+
+          Stsenaarium peaks olema loogiline ja arusaadav ning kajastama reaalse kasutaja tegevusi. Vajadusel võib stsenaariumi projekti käigus täiendada.
+          EOF
+          )"
+
+          gh issue create --repo "$REPO" \
+            --title "Paberprototüübi disainimine" \
             --label "arendus" \
             --body "$(cat <<'EOF'
           ## Kirjeldus
 
-          Loo GitHub Projects tahvel või kasuta organisatsiooni valmis malli, et projekti ülesandeid oleks võimalik süsteemselt jälgida.
+          Looge paberprototüüp, märkige sellele peamised funktsioonid ning dokumenteerige see Wiki lehel.
 
           ## Miks see on vajalik
 
-          Projektitahvel aitab teha töö edenemise nähtavaks ning toetab ülesannete jälgimist kogu projekti vältel.
+          Paberprototüübi disainimine on vajalik, et ideed kiiresti visualiseerida ja enne digilahenduse loomist läbi mõelda. See aitab märgata võimalikke probleeme varakult ning teha parandusi enne arenduse alustamist. Varajane visuaalne lahendus toetab paremate otsuste tegemist.
 
           ## Tegevused
 
-          - ava repositooriumis Projects vaade
-          - loo uus projektitahvel või kasuta organisatsiooni valmis malli
-          - kui lood uue projektitahvli, lisa veerud „Plaanis”, „Töös”, „Tagasisidestamisel” ja „Valmis”
-          - seo tahvel repositooriumi töökorraldusega
+          - joonistage lahendus paberile
+          - märkige joonisele peamised funktsioonid
+          - arutage rühmas lahenduse toimimist
+          - dokumenteerige paberprototüüp (nt pildina) Wiki lehele
 
           ## Valmiskriteerium
 
-          Ülesanne on valmis siis, kui projektitahvel on loodud või kasutusele võetud.
+          Ülesanne on valmis siis, kui paberprototüüp on loodud, funktsioonid on märgitud ja paberprototüüp on Wiki lehel kirjeldatud.
 
           ## Lisainfo
 
-          Kui kasutad organisatsiooni valmis malli, ei ole vaja tahvli struktuuri eraldi seadistada. Kui lood uue tahvli ise, siis veendu, et selles oleksid vähemalt veerud „Plaanis”, „Töös”, „Tagasisidestamisel” ja „Valmis”.
+          Paberprototüüp ei pea olema detailne ega visuaalselt täiuslik - oluline on idee ja ülesehitus. Vajadusel võib prototüüpi enne digiversiooni loomist täiendada.
+          EOF
+          )"
+
+          gh issue create --repo "$REPO" \
+            --title "Vahendite valimine ja katsetamine" \
+            --label "analüüs" \
+            --body "$(cat <<'EOF'
+          ## Kirjeldus
+
+          Valige projekti jaoks sobivad töövahendid, katsetage neid ning dokumenteerige valik ja katsetuse tulemused Wiki lehel.
+
+          ## Miks see on vajalik
+
+          Vahendite valimine ja katsetamine on vajalik, et leida projekti jaoks sobivaimad tööriistad. Õiged vahendid aitavad lahendust tõhusamalt luua ning toetavad tööprotsessi. Katsetamine aitab teha teadliku valiku enne arenduse alustamist.
+
+          ## Tegevused
+
+          - uurige erinevaid töövahendeid
+          - valige sobiv keskkond (nt Figma, Penpot, Genially, jne)
+          - katsetage valitud vahendit
+          - dokumenteerige valik ja katsetuse tulemused Wiki lehele
+
+          ## Valmiskriteerium
+
+          Ülesanne on valmis siis, kui vahendid on valitud, valik on põhjendatud, vahendit on katsetatud ning see on Wiki lehel kirjeldatud.
+
+          ## Lisainfo
+
+          Vahendi valikul tuleks arvestada projekti eesmärki, meeskonna oskusi ja kasutusmugavust. Vajadusel võib projekti käigus töövahendit muuta.
+          EOF
+          )"
+
+          gh issue create --repo "$REPO" \
+            --title "Esmase prototüübi avaldamine ja testimine" \
+            --label "testimine" \
+            --body "$(cat <<'EOF'
+          ## Kirjeldus
+
+          Looge esmane digitaalne prototüüp, jagage see testimiseks, koguge tagasisidet ning dokumenteerige see Wiki lehel.
+
+          ## Miks see on vajalik
+
+          Esmase prototüübi avaldamine ja testimine on vajalik, et saada varajast tagasisidet loodud lahenduse kohta. See aitab avastada puudusi ja parenduskohti enne lõpliku versiooni valmimist. Tagasiside põhjal saab lahendust teadlikult edasi arendada.
+
+          ## Tegevused
+
+          - looge esmane digitaalne prototüüp
+          - jagage prototüüpi testimiseks
+          - koguge tagasisidet
+          - dokumenteerige prototüüp ja saadud tagasiside Wiki lehele
+
+          ## Valmiskriteerium
+
+          Ülesanne on valmis siis, kui prototüüp on loodud, jagatud, tagasiside on kogutud ning see on Wiki lehel kirjeldatud.
+
+          ## Lisainfo
+
+          Tagasisidet võib koguda nii klassikaaslastelt kui ka teistelt kasutajatelt. Oluline on keskenduda sellele, mis töötab hästi ja mida tuleks parandada.
+          EOF
+          )"
+
+          gh issue create --repo "$REPO" \
+            --title "Projekti silumine ja valmis lahenduse esitamine" \
+            --label "parandus" \
+            --body "$(cat <<'EOF'
+          ## Kirjeldus
+
+          Analüüsige saadud tagasisidet, tehke vajalikud parandused, viimistlege lahenduse lõppversioon ning dokumenteerige see Wiki lehel.
+
+          ## Miks see on vajalik
+
+          Projekti silumine ja valmis lahenduse esitamine on vajalik, et parandada vead ja täiustada loodud lahendust. See aitab muuta lõpptulemuse kvaliteetseks ja kasutatavaks. Viimistlemine tagab, et lahendus vastab algselt seatud eesmärkidele.
+
+          ## Tegevused
+
+          - analüüsige saadud tagasisidet
+          - parandage vead ja täiendage lahendust
+          - viimistlege projekti lõppversiooni
+          - dokumenteerige valmis lahendus Wiki lehele
+
+          ## Valmiskriteerium
+
+          Ülesanne on valmis siis, kui tagasiside on läbi töötatud, parandused on tehtud, valmis lahendus on olemas ning see on Wiki lehel kirjeldatud.
+
+          ## Lisainfo
+
+          Oluline on keskenduda nii tehnilistele parandustele kui ka kasutusmugavuse täiustamisele. Vajadusel võib teha mitu paranduste ringi enne lõpliku versiooni esitamist.
+          EOF
+          )"
+
+          gh issue create --repo "$REPO" \
+            --title "Projekti esitlemine" \
+            --label "dokumentatsioon" \
+            --body "$(cat <<'EOF'
+          ## Kirjeldus
+
+          Valmistage ette projekti esitlus, tutvustage projekti ideed ja protsessi, näidake valminud lahendust ning dokumenteerige esitluse materjalid Wiki lehel.
+
+          ## Miks see on vajalik
+
+          Projekti esitlemine on vajalik, et jagada oma tööd teistega ning selgitada, mida ja kuidas projekti käigus õpiti. See aitab mõtestada tehtud tööd ning arendada esinemis- ja eneseväljendusoskust. Esitlemine annab võimaluse saada ka lõplikku tagasisidet.
+
+          ## Tegevused
+
+          - valmistage ette esitlus
+          - tutvustage projekti ideed ja protsessi
+          - näidake valminud lahendust
+          - dokumenteerige esitluse materjalid Wiki lehele
+
+          ## Valmiskriteerium
+
+          Ülesanne on valmis siis, kui esitlus on ette valmistatud, projekti idee ja protsess on selgitatud, lahendus on esitatud ning esitluse materjalid on Wiki lehel kirjeldatud.
+
+          ## Lisainfo
+
+          Siia sisse praktilist osa ei saa panna, sest see on väga individuaalne. See on absoluutne miinimum. Ülejäänud issue'd tuleb projektimeeskonnal ise juurde luua vastavalt oma projektile.
           EOF
           )"
