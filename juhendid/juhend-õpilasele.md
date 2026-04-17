@@ -105,9 +105,9 @@ Probleem tähendab seda, mis on kasutaja jaoks keeruline või millest on tal puu
 Kasutaja: inimene, kes hakkab sinu teenust või toodet kasutama. Selle jaoks tuleb esmalt välja mõelda, kes see inimene on. *Näiteks: õpilane, lapsevanem, õpetaja jne. Mõnikord öeldakse kasutaja kohta ka klient (nt tarkvaraarenduses).*
 
 **Toetavad küsimused:**
--Kes hakkab seda kasutama?
--Mida ta vajab?
--Mis probleem tal on?
+- Kes hakkab seda kasutama?
+- Mida ta vajab?
+- Mis probleem tal on?
 
 Kui sa ei mõtle probleemile ja kasutajale, võte teha kogemata lahenduse, mida ei ole kellelgi vaja või millest on raske aru saada. Hea toode või teenus ei tähenda seda, et see peab kõigile sobima. See peab esmalt sobima teie kliendile või kasutajale.
 
