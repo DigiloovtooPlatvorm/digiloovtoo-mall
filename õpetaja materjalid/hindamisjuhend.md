@@ -20,7 +20,7 @@ Kirjelda:
 
 ## 2. Hindamisvaldkonnad
 
-### 2.1 Probleemi mõistmine ja analüüs
+**2.1 Probleemi mõistmine ja analüüs**
 
 Kirjelda, mida ootad:
 - eesmärk
@@ -38,7 +38,7 @@ Kirjelda, mida ootad:
 - 
 
 
-### 2.2 Töö planeerimine
+**2.2 Töö planeerimine**
 
 Kirjelda, kuidas töö peaks olema jaotatud ja planeeritud.
 
@@ -53,7 +53,7 @@ Kirjelda, kuidas töö peaks olema jaotatud ja planeeritud.
 
 
 
-### 2.3 Tööprotsess ja koostöö
+**2.3 Tööprotsess ja koostöö**
 
 Kirjelda, kuidas hindad koostööd ja töö edenemist.
 
@@ -69,7 +69,7 @@ Kirjelda, kuidas hindad koostööd ja töö edenemist.
 
 
 
-### 2.4 Dokumentatsioon ja refleksioon
+**2.4 Dokumentatsioon ja refleksioon**
 
 Kirjelda ootused dokumenteerimisele.
 
@@ -85,7 +85,7 @@ Kirjelda ootused dokumenteerimisele.
 
 
 
-### 2.5 Lahendus ja tulemus
+**2.5 Lahendus ja tulemus**
 
 Kirjelda, milline peaks olema valminud lahendus.
 
