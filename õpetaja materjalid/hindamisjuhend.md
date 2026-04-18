@@ -2,7 +2,7 @@
 
 Käesolev dokument on mõeldud õpetajale digiloovtöö hindamise kriteeriumite sõnastamiseks. Täida allolevad osad vastavalt oma aine, projekti ja kokkulepete eripärale.
 
----
+
 
 ## 1. Hindamise üldpõhimõtted
 
@@ -16,7 +16,7 @@ Kirjelda:
 - Hindamise ajastus:  
 - Individuaalne vs rühmahindamine:  
 
----
+
 
 ## 2. Hindamisvaldkonnad
 
@@ -35,6 +35,7 @@ Kirjelda, mida ootad:
 
 **Tõendus GitHubis (nt Wiki, issue’d):**
 - 
+- 
 
 
 ### 2.2 Töö planeerimine
@@ -47,6 +48,7 @@ Kirjelda, kuidas töö peaks olema jaotatud ja planeeritud.
 - 
 
 **Tõendus GitHubis (nt Issues, Projects):**
+- 
 - 
 
 
@@ -62,6 +64,8 @@ Kirjelda, kuidas hindad koostööd ja töö edenemist.
 
 **Tõendus GitHubis:**
 - 
+- 
+
 
 
 
@@ -76,6 +80,8 @@ Kirjelda ootused dokumenteerimisele.
 
 **Tõendus GitHubis (nt Wiki, retrospektiiv):**
 - 
+- 
+
 
 
 
@@ -90,6 +96,8 @@ Kirjelda, milline peaks olema valminud lahendus.
 
 **Tõendus:**
 - 
+- 
+
 
 
 
@@ -111,7 +119,7 @@ Näiteks:
 
 ## 4. Hindamise korraldus
 
-Kirjelda:
+**Kirjelda:**
 - kuidas ja kus antakse tagasisidet
 - kas kasutatakse GitHubi (Issues, kommentaarid jne)
 
@@ -123,7 +131,7 @@ Kirjelda:
 
 ## 5. Täiendavad kokkulepped
 
-Siia saab lisada:
+**Siia saab lisada:**
 - tähtajad
 - kohustuslikud osad
 - erikokkulepped
