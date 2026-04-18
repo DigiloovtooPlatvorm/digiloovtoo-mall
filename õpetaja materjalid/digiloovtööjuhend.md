@@ -11,4 +11,4 @@ Digiloovtöö juhend ja hindamisjuhend peavad olema omavahel kooskõlas:
 
 # Digiloovtöö juhend
 Siia saab linkida digiloovtöö juhendi:
-Digiloovtöö juhend asub [siin](siia lisa url]
+Digiloovtöö juhend asub [siin](siia lisa url].
