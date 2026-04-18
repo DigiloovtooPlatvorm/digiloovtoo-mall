@@ -36,7 +36,6 @@ Kirjelda, mida ootad:
 **Tõendus GitHubis (nt Wiki, issue’d):**
 - 
 
----
 
 ### 2.2 Töö planeerimine
 
@@ -50,7 +49,7 @@ Kirjelda, kuidas töö peaks olema jaotatud ja planeeritud.
 **Tõendus GitHubis (nt Issues, Projects):**
 - 
 
----
+
 
 ### 2.3 Tööprotsess ja koostöö
 
@@ -64,7 +63,7 @@ Kirjelda, kuidas hindad koostööd ja töö edenemist.
 **Tõendus GitHubis:**
 - 
 
----
+
 
 ### 2.4 Dokumentatsioon ja refleksioon
 
@@ -78,7 +77,7 @@ Kirjelda ootused dokumenteerimisele.
 **Tõendus GitHubis (nt Wiki, retrospektiiv):**
 - 
 
----
+
 
 ### 2.5 Lahendus ja tulemus
 
@@ -92,7 +91,7 @@ Kirjelda, milline peaks olema valminud lahendus.
 **Tõendus:**
 - 
 
----
+
 
 ## 3. Hindamisskaala
 
@@ -108,7 +107,7 @@ Näiteks:
 - Skaala:  
 - Hindamise loogika:  
 
----
+
 
 ## 4. Hindamise korraldus
 
@@ -120,7 +119,7 @@ Kirjelda:
 - Tagasiside viis:  
 - Hindamise keskkond:  
 
----
+
 
 ## 5. Täiendavad kokkulepped
 
